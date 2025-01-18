@@ -1,0 +1,42 @@
+{
+    "Artificial Intelligence and Machine Learning": [
+      "https://www.artificialintelligence-news.com/",
+      "https://www.wsj.com/tech/ai",
+      "https://www.bbc.com/news/topics/ce1qrvleleqt",
+      "https://www.nbcnews.com/artificial-intelligence",
+      "https://www.nytimes.com/spotlight/artificial-intelligence",
+      "https://techcrunch.com/category/artificial-intelligence/",
+      "https://www.wired.com/tag/artificial-intelligence/",
+      "https://www.reuters.com/technology/artificial-intelligence/",
+      "https://www.wired.com/tag/machine-learning/"
+    ],
+    "Hardware/Embedded Systems": [
+      "https://www.embedded.com/category/news",
+      "https://www.allaboutcircuits.com/news/category/embedded/",
+      "https://www.cnx-software.com/",
+      "https://thehackernews.com/search/label/Embedded%20Devices"
+
+    ],
+    "Cybersecurity": [
+      "https://thehackernews.com/",
+      "https://www.securityweek.com/",
+      "https://cyberscoop.com/",
+      "https://cybersecuritynews.com/",
+      "https://www.wired.com/category/security/"
+    ],
+    "Tech Industry": [
+      "https://www.reuters.com/technology/",
+      "https://www.cnbc.com/technology/",
+      "https://www.geekwire.com/",
+      "https://www.wired.com/",
+      "https://www.usnews.com/news/technology",
+      "https://www.cnn.com/business/tech"
+    ],
+    "Future Technologies": [
+      "https://www.engadget.com/tomorrow/",
+      "https://www.bbc.com/future/columns/technology",
+      "https://www.livescience.com/technology",
+      "https://www.techtimes.com/futuretech"
+    ]
+  }
+  
