@@ -9,7 +9,7 @@ with open("topics.json", "r") as file:
     topics = json.load(file)
 
 # Output file
-output_file = "../static/articles.json"
+output_file = "../../client/public/articles.json"
 
 # Function to extract articles from any page
 def scrape_articles(topic, url):

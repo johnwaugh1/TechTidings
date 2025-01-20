@@ -1,0 +1,2305 @@
+{
+    "last_updated": "2025-01-20T13:32:08.457763",
+    "articles": {
+        "Artificial Intelligence and Machine Learning": [
+            {
+                "title": "12 hrs ago'World-leading supercomputer using AI to develop vaccines'Waste energy from the supercomputer could one day heat nearby homes in north Bristol.12 hrs ago Bristol",
+                "link": "https://www.bbc.com/news/articles/cy5kley15pyo",
+                "description": "Waste energy from the supercomputer could one day heat nearby homes in north Bristol."
+            },
+            {
+                "title": "1 day ago AI to be used to spot potholes and aid repairs Cameras inside Surrey County Council vehicles will spot potholes and list them for repair.1 day ago Surrey",
+                "link": "https://www.bbc.com/news/articles/cy8p9jjw3w1o",
+                "description": "Cameras inside Surrey County Council vehicles will spot potholes and list them for repair."
+            },
+            {
+                "title": "3 days ago Apple suspends error-strewn AI generated news alerts The tech giant was facing pressure to pull the feature after it made repeated mistakes summarising headlines.3 days ago Business",
+                "link": "https://www.bbc.com/news/articles/cq5ggew08eyo",
+                "description": "The tech giant was facing pressure to pull the feature after it made repeated mistakes summarising headlines."
+            },
+            {
+                "title": "'I used AI and it's not as scary as I thought'Hull College says it is embracing the use of artificial intelligence to help its students.3 days ago Hull & East Yorkshire",
+                "link": "https://www.bbc.com/news/articles/cvgp6y42rl3o",
+                "description": "Hull College says it is embracing the use of artificial intelligence to help its students."
+            },
+            {
+                "title": "4 days ago How AI can spot diseases that doctors aren't looking for AI can take a second look at medical scans and flag up potential problems that doctors might not see.",
+                "link": "https://www.bbc.com/news/articles/c9q7zqy1xlpo",
+                "description": "AI can take a second look at medical scans and flag up potential problems that doctors might not see."
+            },
+            {
+                "title": "4 days ago Plans for \u00a32 bn AI centre and 750 jobs It will be the UK's largest artificial intelligence data centre if approved.4 days ago Essex",
+                "link": "https://www.bbc.com/news/articles/c2l0d0lgje7o",
+                "description": "It will be the UK's largest artificial intelligence data centre if approved."
+            },
+            {
+                "title": "5 days ago College embraces 'incoming tide' of AIPrincipal Anthony Bravo said students would be \"foolish\" not to use AI for work.",
+                "link": "https://www.bbc.com/news/articles/c8r5jgg5gxmo",
+                "description": "Principal Anthony Bravo said students would be \"foolish\" not to use AI for work."
+            },
+            {
+                "title": "5 days ago AI Brad Pitt dupes French woman out of \u20ac830,000 Anne, 53, was subject to nationwide ridicule after a TV show revealed how she paid out huge sums to romance scammers pretending to be Brad Pitt.5 days ago Europe",
+                "link": "https://www.bbc.com/news/articles/ckgnz8rw1xgo",
+                "description": "Anne, 53, was subject to nationwide ridicule after a TV show revealed how she paid out huge sums to romance scammers pretending to be Brad Pitt."
+            },
+            {
+                "title": "7 days ago GPs turn to AI to help with patient workload Should more AI be used to help GPs with consultations and administrative work?7 days ago Technology",
+                "link": "https://www.bbc.com/news/articles/cdd026lgmdmo",
+                "description": "Should more AI be used to help GPs with consultations and administrative work?"
+            },
+            {
+                "title": "BREAKING: Trump says he hopes his legacy will be as 'peacemaker and unifier' in wide ranging inaugural speech",
+                "link": "https://www.nbcnews.com/politics/donald-trump/trump-heralds-golden-age-promise-filled-inaugural-address-rcna186498",
+                "description": ""
+            },
+            {
+                "title": "U.S. tightens its grip on AI chip flows around the world",
+                "link": "https://www.nbcnews.com/tech/tech-news/us-tightens-grip-ai-chip-flows-globe-rcna187366",
+                "description": ""
+            },
+            {
+                "title": "Robots haven't taken over yet, but AI investments are powering more of the economy",
+                "link": "https://www.nbcnews.com/business/business-news/ai-investments-us-economic-growth-job-uncertainty-rcna186689",
+                "description": ""
+            },
+            {
+                "title": "Nvidia founder unveils next generation of AI and gaming chips at CES 2025",
+                "link": "https://www.nbcnews.com/business/business-news/nvidia-jensen-huang-unveils-generation-ai-gaming-chips-ces-2025-rcna186562",
+                "description": ""
+            },
+            {
+                "title": "Microsoft expects to spend $80 billion on AI-enabled data centers over next 12 months",
+                "link": "https://www.nbcnews.com/business/business-news/microsoft-expects-spend-80-billion-ai-enabled-data-centers-12-months-rcna186176",
+                "description": ""
+            },
+            {
+                "title": "'Tik Tok is back': Trump makes an appeal to young voters at his pre-inauguration rally",
+                "link": "https://www.nbcnews.com/politics/donald-trump/tiktok-back-trump-appeals-young-voters-pre-inauguration-rally-rcna187734",
+                "description": ""
+            },
+            {
+                "title": "Tik Tok ban highlights: App says service will be restored in U.S. after Trump vows to issue executive order",
+                "link": "https://www.nbcnews.com/tech/tech-news/live-blog/tiktok-ban-live-updates-rcna188238",
+                "description": ""
+            },
+            {
+                "title": "Tik Tok returns service to U.S. users, thanking Trump",
+                "link": "https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320",
+                "description": ""
+            },
+            {
+                "title": "Trump prepares a slew of Day 1 orders on immigration, gender and more",
+                "link": "https://www.nbcnews.com/politics/donald-trump/trump-prepares-slew-day-1-orders-immigration-gender-rcna187164",
+                "description": ""
+            },
+            {
+                "title": "Trump to issue 10 executive orders on immigration upon taking office",
+                "link": "https://www.nbcnews.com/politics/politics-news/trump-issue-10-executive-orders-immigration-taking-office-rcna188385",
+                "description": ""
+            },
+            {
+                "title": "Trump to sign executive orders proclaiming there are only two biological sexes, halting diversity programs",
+                "link": "https://www.nbcnews.com/nbc-out/out-politics-and-policy/trump-sign-executive-orders-proclaiming-are-only-two-biological-sexes-rcna188388",
+                "description": ""
+            },
+            {
+                "title": "Trump to declare 'national energy emergency' to open up resource extraction",
+                "link": "https://www.nbcnews.com/politics/donald-trump/trump-declare-national-energy-emergency-open-resource-extraction-rcna188382",
+                "description": ""
+            },
+            {
+                "title": "Trying to make sense of artificial intelligence? Here's your guide",
+                "link": "https://www.nbcnews.com/tech/innovation/ai-explain-openai-chatgpt-how-to-rcna77889",
+                "description": ""
+            },
+            {
+                "title": "An AI glossary: The words and terms to know about the booming industry",
+                "link": "https://www.nbcnews.com/tech/innovation/ai-glossary-openai-chatgpt-words-terms-know-booming-industry-rcna81793",
+                "description": ""
+            },
+            {
+                "title": "Apple is poised to become the first publicly traded company worth four trillion dollars",
+                "link": "https://www.nbcnews.com/nightly-news/video/apple-is-poised-to-become-the-first-publicly-traded-company-worth-four-trillion-dollars-227904581952",
+                "description": ""
+            },
+            {
+                "title": "A.I. Revolution: How artificial intelligence is helping children with dyslexia",
+                "link": "https://www.nbcnews.com/nightly-news/video/a-i-revolution-how-artificial-intelligence-is-helping-children-with-dyslexia-227631173993",
+                "description": ""
+            },
+            {
+                "title": "Doctors seek help from AI in medical diagnosis",
+                "link": "https://www.nbcnews.com/now/video/doctors-seek-help-from-ai-in-medical-diagnosis-227440197780",
+                "description": ""
+            },
+            {
+                "title": "Apple launches Chat GPT-Siri integration with latest update",
+                "link": "https://www.nbcnews.com/now/video/apple-launches-chatgpt-siri-integration-with-latest-update-226891845686",
+                "description": ""
+            },
+            {
+                "title": "Chipmaker Nvidia nearly doubles revenue as demand for AI chips stays high",
+                "link": "https://www.nbcnews.com/now/video/chipmaker-nvidia-nearly-doubles-revenue-as-demand-for-ai-chips-stays-high-225037381652",
+                "description": ""
+            },
+            {
+                "title": "Florida family blames AI chatbot for teen's death by suicide",
+                "link": "https://www.nbcnews.com/video/florida-family-blames-ai-chatbot-for-teen-s-death-by-suicide-222664773697",
+                "description": ""
+            },
+            {
+                "title": "Morgan Stanley rolls out Open AI tools on Wall Street",
+                "link": "https://www.nbcnews.com/now/video/morgan-stanley-rolls-out-openai-tools-on-wall-street-222561349961",
+                "description": ""
+            },
+            {
+                "title": "How the NYPD is fighting AI-powered terrorism threats and criminal activity",
+                "link": "https://www.nbcnews.com/now/video/how-the-nypd-is-fighting-ai-powered-terrorism-threats-and-criminal-activity-222047301570",
+                "description": ""
+            },
+            {
+                "title": "New laws for 2025: AI safeguards, legacy admissions and transgender health care",
+                "link": "https://www.nbcnews.com/politics/politics-news/new-laws-2025-ai-safeguards-legacy-admissions-transgender-health-care-rcna185031",
+                "description": "The coming year\u2019s laws also include measures to enhance data privacy and consumer protections, as well as regulate IDs nationwide."
+            },
+            {
+                "title": "Nvidia sees 'remarkable' influx of retail investor dollars as traders flock to AI darling",
+                "link": "https://www.nbcnews.com/business/business-news/nvidia-sees-remarkable-influx-retail-investor-dollars-traders-flock-ai-rcna185391",
+                "description": "Nvidia is on pace to dethrone Tesla, the retail investor favorite that earned the most-bought title last year."
+            },
+            {
+                "title": "Apple launches its Chat GPT integration with Siri",
+                "link": "https://www.nbcnews.com/tech/apple/apple-launches-chatgpt-integration-siri-rcna183736",
+                "description": "The iOS 18.2 release is a critical milestone for Apple, which is relying on Apple Intelligence to lead the iPhone 16 lineup\u2019s marketing campaign."
+            },
+            {
+                "title": "'Deus in machina': Swiss church installs AI Jesus to connect the digital and the divine",
+                "link": "https://www.nbcnews.com/news/world/deus-machina-swiss-church-installs-ai-jesus-connect-digital-divine-rcna182973",
+                "description": "\u201cMany people came to talk with him,\u201d said Marco Schmid, the theologian at St. Peter's Chapel in the Swiss city of Lucerne."
+            },
+            {
+                "title": "Senator introduces bill to compel more transparency from AI developers",
+                "link": "https://www.nbcnews.com/tech/senate-bill-transparency-ai-developers-rcna181724",
+                "description": "The legislation, if passed, would allow copyright holders to subpoena AI training data when trying to prove that their work was used without their consent."
+            },
+            {
+                "title": "Coca-Cola causes controversy with AI-generated ad",
+                "link": "https://www.nbcnews.com/tech/innovation/coca-cola-causes-controversy-ai-made-ad-rcna180665",
+                "description": "The video was meant to pay homage to a classic 1995 Coca-Cola commercial."
+            },
+            {
+                "title": "Lawsuit claims Character.AI is responsible for teen's suicide",
+                "link": "https://www.nbcnews.com/tech/characterai-lawsuit-florida-teen-death-rcna176791",
+                "description": "Megan Garcia says the company\u2019s chatbots encouraged her 14-year-old son, Sewell Setzer, to take his own life, according to the lawsuit."
+            },
+            {
+                "title": "AI on the trading floor: Morgan Stanley expands chatbot tools to Wall Street division",
+                "link": "https://www.nbcnews.com/business/business-news/ai-trading-floor-morgan-stanley-expands-openai-powered-chatbot-tools-rcna176800",
+                "description": "Since its arrival as a viral consumer app in late 2022, OpenAI\u2019s generative AI technology has been swiftly adopted"
+            },
+            {
+                "title": "More than 11,000 creatives condemn unauthorized use of content for AI development",
+                "link": "https://www.nbcnews.com/tech/actors-artists-authors-open-letter-ai-copyright-rcna176681",
+                "description": "The statement called the \"unlicensed use of creative works for training generative AI\" an \"unjust threat to the livelihoods of the people behind those works.\""
+            },
+            {
+                "title": "Gulf Coast bracing for rare winter storm with frigid temperatures and snow",
+                "link": "https://www.nbcnews.com/weather/winter-weather/gulf-coast-winter-storm-frigid-temperatures-snow-rcna188402",
+                "description": ""
+            },
+            {
+                "title": "Trump Inauguration Day live updates: Trump vows a new 'golden age'; Biden issues pre-emptive pardons to family",
+                "link": "https://www.nbcnews.com/politics/donald-trump/live-blog/trump-inauguration-2025-live-updates-rcna184510",
+                "description": ""
+            },
+            {
+                "title": "Trump heralds a 'golden age' in promise-filled inaugural address",
+                "link": "https://www.nbcnews.com/politics/donald-trump/trump-heralds-golden-age-promise-filled-inaugural-address-rcna186498",
+                "description": ""
+            },
+            {
+                "title": "Trump not expected to carry through on Day 1 tariff threats",
+                "link": "https://www.nbcnews.com/business/business-news/trump-not-expected-carry-day-1-tariff-threats-rcna188407",
+                "description": ""
+            },
+            {
+                "title": "Biden commutes life sentence of Leonard Peltier, Native American activist imprisoned for almost 50 years",
+                "link": "https://www.nbcnews.com/news/us-news/biden-commutes-sentence-leonard-peltier-native-american-activist-impri-rcna188331",
+                "description": ""
+            },
+            {
+                "title": "Biden issues pre-emptive pardons for members of his family in one of his final acts as president",
+                "link": "https://www.nbcnews.com/politics/joe-biden/biden-issues-pre-emptive-pardons-members-family-one-final-acts-preside-rcna188409",
+                "description": ""
+            },
+            {
+                "title": "Cecile Richards, former Planned Parenthood president, dies at 67",
+                "link": "https://www.nbcnews.com/news/obituaries/cecile-richards-planned-parenthood-president-dies-rcna188392",
+                "description": ""
+            },
+            {
+                "title": "Vivek Ramaswamy to leave DOGE and launch a run for Ohio governor",
+                "link": "https://www.nbcnews.com/politics/donald-trump/vivek-ramaswamy-doge-launch-run-ohio-governor-rcna188397",
+                "description": ""
+            },
+            {
+                "title": "Biden issues pre-emptive pardons for Jan. 6 committee and witnesses, Anthony Fauci and Mark Milley",
+                "link": "https://www.nbcnews.com/politics/joe-biden/biden-issues-preemptive-pardons-milley-fauci-jan-6-panel-members-polic-rcna188368",
+                "description": ""
+            },
+            {
+                "title": "What happens on Inauguration Day?",
+                "link": "https://www.nbcnews.com/politics/white-house/trump-inauguration-how-to-watch-schedule-time-attendees-rcna187064",
+                "description": ""
+            },
+            {
+                "title": "Los Angeles under dangerous red flag warnings for extreme fire risk again this week",
+                "link": "https://www.nbcnews.com/weather/wildfires/red-flag-warning-extreme-wildfire-risk-forecast-rcna188370",
+                "description": ""
+            },
+            {
+                "title": "Here are things Trump has promised to carry out on Day 1 of his presidency",
+                "link": "https://www.nbcnews.com/politics/donald-trump/11-things-trump-day-1-presidency-rcna184423",
+                "description": ""
+            },
+            {
+                "title": "Bernice King on MLK Day coinciding with Trump inauguration: 'It reminds us of King's spirit'",
+                "link": "https://www.nbcnews.com/news/nbcblk/bernice-king-mlk-day-trump-inauguration-timing-rcna188328",
+                "description": ""
+            },
+            {
+                "title": "U.K. teenager pleads guilty to murdering three young girls at Taylor Swift themed dance party",
+                "link": "https://www.nbcnews.com/news/world/southport-murder-schoolgirls-taylor-swift-party-uk-race-riots-rcna188373",
+                "description": ""
+            },
+            {
+                "title": "Mother of missing U.S. journalist Austin Tice returns to Syria with praise for its new leaders",
+                "link": "https://www.nbcnews.com/news/world/austin-tice-mother-debra-syria-trump-biden-assad-hts-rcna188356",
+                "description": ""
+            },
+            {
+                "title": "Indian police volunteer sentenced to life in prison in rape and murder of trainee doctor",
+                "link": "https://www.nbcnews.com/news/world/indian-police-volunteer-sentenced-life-prison-rape-murder-doctor-rcna188364",
+                "description": ""
+            },
+            {
+                "title": "She Is in Love With Chat GPT",
+                "link": "https://www.nytimes.com/2025/01/15/technology/ai-chatgpt-boyfriend-companion.html",
+                "description": ""
+            },
+            {
+                "title": "Apple Plans to Disable A.I. Features Summarizing News Notifications",
+                "link": "https://www.nytimes.com/2025/01/16/technology/apple-ai-news-notifications.html",
+                "description": ""
+            },
+            {
+                "title": "A.I. Military Start-Up Anduril Plans $1 Billion Factory in Ohio",
+                "link": "https://www.nytimes.com/2025/01/16/technology/anduril-factory-columbus-ohio.html",
+                "description": ""
+            },
+            {
+                "title": "Open AI Courts Trump With Vision for \u2018A.I. in America\u2019",
+                "link": "https://www.nytimes.com/2025/01/13/technology/openai-economic-blueprint.html",
+                "description": ""
+            },
+            {
+                "title": "Biden Administration Adopts Rules to Guide A.I.\u2019s Global Spread",
+                "link": "https://www.nytimes.com/2025/01/13/us/politics/biden-administration-rules-artificial-intelligence.html",
+                "description": ""
+            },
+            {
+                "title": "Elon Musk\u2019s x AI Raises $6 Billion in New Funding",
+                "link": "https://www.nytimes.com/2024/12/24/technology/elon-musk-xai-funding.html",
+                "description": ""
+            },
+            {
+                "title": "When the Word Is Not Just Flesh: Reporting on A.I. in Religion",
+                "link": "https://www.nytimes.com/2025/01/17/reader-center/ai-religion-journalism.html",
+                "description": ""
+            },
+            {
+                "title": "\u2018Now Is the Time of Monsters\u2019",
+                "link": "https://www.nytimes.com/2025/01/12/opinion/ai-climate-change-low-birth-rates.html",
+                "description": ""
+            },
+            {
+                "title": "More in On Tech: AI Newsletter \u203a",
+                "link": "https://www.nytimes.com/column/on-tech-ai-newsletter",
+                "description": "On Tech: AI Newsletter"
+            },
+            {
+                "title": "Applying to College? Here\u2019s How A.I. Tools Might Hurt, or Help.",
+                "link": "https://www.nytimes.com/2023/09/01/technology/ai-chatbots-college-applications.html",
+                "description": ""
+            },
+            {
+                "title": "How teachers and students feel about A.I.",
+                "link": "https://www.nytimes.com/2023/08/24/technology/how-teachers-and-students-feel-about-ai.html",
+                "description": ""
+            },
+            {
+                "title": "How to Use A.I. for Family Time",
+                "link": "https://www.nytimes.com/2023/07/07/technology/how-to-use-ai-for-family-time.html",
+                "description": ""
+            },
+            {
+                "title": "What\u2019s the Future for A.I.?",
+                "link": "https://www.nytimes.com/2023/03/31/technology/ai-chatbots-benefits-dangers.html",
+                "description": ""
+            },
+            {
+                "title": "Jake Sullivan, White House National Security Adviser, Reflects on China Policy",
+                "link": "https://www.nytimes.com/2025/01/19/us/politics/jake-sullivan-china.html",
+                "description": "President Biden and his team saw China as the one nation with the intent and capability to displace American primacy \u2014 and crafted policies to defend U.S. power."
+            },
+            {
+                "title": "How A.I. Tools Helped the Travel Team Study Its \u2018Places to Go\u2019 Lists",
+                "link": "https://www.nytimes.com/2025/01/19/travel/how-ai-tools-helped-the-travel-team-study-its-places-to-go-lists.html",
+                "description": "Two decades of destinations amount to more than 300,000 words. To take a closer look, we needed more than the human eye."
+            },
+            {
+                "title": "C.I.A.\u2019s Chatbot Stands In for World Leaders",
+                "link": "https://www.nytimes.com/2025/01/18/us/politics/cia-chatbot-technology.html",
+                "description": "The spy agency is trying to give its teams better tools and make it easier for the private sector to develop technology for their secretive work."
+            },
+            {
+                "title": "As the World Warms, Davos Braces for Political Drama",
+                "link": "https://www.nytimes.com/2025/01/17/climate/davos-trump-world-economic-forum.html",
+                "description": "A new U.S. president\u2019s promise to expand fossil fuels that is at odds with global ambitions to combat climate change will be a topic of discussion at the World Economic Forum."
+            },
+            {
+                "title": "\u2018Her\u2019 Was Set in 2025. What Did It Get Right About Love?",
+                "link": "https://www.nytimes.com/2025/01/16/style/her-ai-love-spike-jonze.html",
+                "description": "Eleven years ago, Spike Jonze\u2019s tech drama imagined a budding romance between a man and his virtual assistant. If anything, the film was holding back."
+            },
+            {
+                "title": "Deep Seek claims its reasoning model beats Open AI\u2019s o 1 on certain benchmarks",
+                "link": "https://techcrunch.com/2025/01/20/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/",
+                "description": ""
+            },
+            {
+                "title": "Here are the types of AI companies enterprise VCs want to back in 2025",
+                "link": "https://techcrunch.com/2025/01/20/here-are-the-types-of-ai-companies-enterprise-vcs-want-to-back-in-2025/",
+                "description": ""
+            },
+            {
+                "title": "Confirmed: AI vision startup Metropolis acquires Oosto (formerly known as Any Vision) for just $125 M",
+                "link": "https://techcrunch.com/2025/01/20/sources-ai-vision-startup-metropolis-is-buying-oosto-formerly-known-as-anyvision-for-just-125m/",
+                "description": ""
+            },
+            {
+                "title": "AI benchmarking organization criticized for waiting to disclose funding from Open AI",
+                "link": "https://techcrunch.com/2025/01/19/ai-benchmarking-organization-criticized-for-waiting-to-disclose-funding-from-openai/",
+                "description": ""
+            },
+            {
+                "title": "The Pentagon says AI is speeding up its \u2018kill chain\u2019",
+                "link": "https://techcrunch.com/2025/01/19/the-pentagon-says-ai-is-speeding-up-its-kill-chain/",
+                "description": ""
+            },
+            {
+                "title": "AI isn\u2019t very good at history, new paper finds",
+                "link": "https://techcrunch.com/2025/01/19/ai-isnt-very-good-at-history-new-paper-finds/",
+                "description": ""
+            },
+            {
+                "title": "Amazon suspends US drone deliveries following crash at testing facility",
+                "link": "https://techcrunch.com/2025/01/17/amazon-suspends-u-s-drone-deliveries-following-crash-at-testing-facility/",
+                "description": ""
+            },
+            {
+                "title": "Perplexity acquires Read.cv, a social media platform for professionals",
+                "link": "https://techcrunch.com/2025/01/17/perplexity-acquires-read-cv-a-social-media-platform-for-professionals/",
+                "description": ""
+            },
+            {
+                "title": "AI startup Character AI tests games on the web",
+                "link": "https://techcrunch.com/2025/01/17/ai-startup-character-ai-tests-games-on-the-web/",
+                "description": ""
+            },
+            {
+                "title": "Open AI is trying to extend human life, with help from a longevity startup",
+                "link": "https://techcrunch.com/2025/01/17/openai-is-trying-to-extend-human-life-with-help-from-a-longevity-startup/",
+                "description": ""
+            },
+            {
+                "title": "$200 M woolly mammoths and a farewell to Tik Tok",
+                "link": "https://techcrunch.com/podcast/200m-woolly-mammoths-and-a-farewell-to-tiktok/",
+                "description": ""
+            },
+            {
+                "title": "Nord Security founders launch Nexos.ai to help enterprises take AI projects from pilot to production",
+                "link": "https://techcrunch.com/2025/01/17/nord-security-founders-launch-nexos-ai-to-help-enterprises-take-ai-projects-from-pilot-to-production/",
+                "description": ""
+            },
+            {
+                "title": "Apple pauses AI notification summaries for news after generating false alerts",
+                "link": "https://techcrunch.com/2025/01/16/apple-pauses-ai-notification-summaries-for-news-after-generating-false-alerts/",
+                "description": ""
+            },
+            {
+                "title": "Nvidia releases more tools and guardrails to nudge enterprises to adopt AI agents",
+                "link": "https://techcrunch.com/2025/01/16/nvidia-releases-more-tools-and-guardrails-to-nudge-enterprises-to-adopt-ai-agents/",
+                "description": ""
+            },
+            {
+                "title": "Mistral signs deal with AFP to offer up-to-date answers in Le Chat",
+                "link": "https://techcrunch.com/2025/01/16/mistral-signs-deal-with-afp-to-offer-up-to-date-answers-in-le-chat/",
+                "description": ""
+            },
+            {
+                "title": "In AI copyright case, Zuckerberg turns to You Tube for his defense",
+                "link": "https://techcrunch.com/2025/01/15/in-ai-copyright-case-zuckerberg-turns-to-youtube-for-his-defense/",
+                "description": ""
+            },
+            {
+                "title": "Chinese AI company Mini Max releases new models it claims are competitive with the industry\u2019s best",
+                "link": "https://techcrunch.com/2025/01/15/chinese-ai-company-minimax-releases-new-models-it-claims-are-competitive-with-the-industrys-best/",
+                "description": ""
+            },
+            {
+                "title": "More teens report using Chat GPT for schoolwork, despite the tech\u2019s faults",
+                "link": "https://techcrunch.com/2025/01/15/more-teens-report-using-chatgpt-for-schoolwork-despite-the-techs-faults/",
+                "description": ""
+            },
+            {
+                "title": "Meta adds 200 megawatts of solar to its 12 gigawatt renewable portfolio",
+                "link": "https://techcrunch.com/2025/01/15/meta-adds-200-megawatts-of-solar-to-its-12-gigawatt-renewable-portfolio/",
+                "description": ""
+            },
+            {
+                "title": "Open AI is bankrolling Axios\u2019 expansion into four new markets",
+                "link": "https://techcrunch.com/2025/01/15/openai-is-bankrolling-axios-expansion-into-four-new-markets/",
+                "description": ""
+            },
+            {
+                "title": "AI researcher Fran\u00e7ois Chollet founds a new AI lab focused on AGI",
+                "link": "https://techcrunch.com/2025/01/15/ai-researcher-francois-chollet-founds-a-new-ai-lab-focused-on-agi/",
+                "description": ""
+            },
+            {
+                "title": "This Week in AI: Will Biden\u2019s AI actions survive the Trump era?",
+                "link": "https://techcrunch.com/2025/01/15/this-week-in-ai-will-bidens-ai-actions-survive-the-trump-era/",
+                "description": ""
+            },
+            {
+                "title": "Google inks deal with The Associated Press to bring more real-time info to Gemini",
+                "link": "https://techcrunch.com/2025/01/15/google-inks-deal-with-the-associated-press-to-bring-more-real-time-info-to-gemini/",
+                "description": ""
+            },
+            {
+                "title": "Google raises the price of Workspace plans, includes its AI features for free",
+                "link": "https://techcrunch.com/2025/01/15/google-raises-the-price-of-workspace-plans-making-its-ai-features-included-for-free/",
+                "description": ""
+            },
+            {
+                "title": "As Gen Z job applicants balloon, companies are turning to AI agent recruiters",
+                "link": "https://techcrunch.com/2025/01/15/as-gen-z-job-applicants-balloon-companies-are-turning-to-ai-agent-recruiters/",
+                "description": ""
+            },
+            {
+                "title": "Rockfish is helping enterprises leverage synthetic data",
+                "link": "https://techcrunch.com/2025/01/15/rockfish-is-helping-enterprises-leverage-synthetic-data/",
+                "description": ""
+            },
+            {
+                "title": "Bluesky launches a custom feed for vertical videos",
+                "link": "https://techcrunch.com/2025/01/19/bluesky-launches-a-custom-feed-for-vertical-videos/",
+                "description": ""
+            },
+            {
+                "title": "The Pentagon says AI is speeding up its \u2018kill chain\u2019",
+                "link": "https://techcrunch.com/2025/01/19/the-pentagon-says-ai-is-speeding-up-its-kill-chain/",
+                "description": ""
+            },
+            {
+                "title": "Tik Tok is restoring service in the US",
+                "link": "https://techcrunch.com/2025/01/19/tiktok-is-restoring-service-in-the-us/",
+                "description": ""
+            },
+            {
+                "title": "AI isn\u2019t very good at history, new paper finds",
+                "link": "https://techcrunch.com/2025/01/19/ai-isnt-very-good-at-history-new-paper-finds/",
+                "description": ""
+            },
+            {
+                "title": "Apple lists all apps it removed alongside Tik Tok in the U.S.",
+                "link": "https://techcrunch.com/2025/01/18/apple-lists-all-apps-it-removed-alongside-tiktok-in-the-u-s/",
+                "description": ""
+            },
+            {
+                "title": "Google begins requiring Java Script for Google Search",
+                "link": "https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/",
+                "description": ""
+            },
+            {
+                "title": "How to Use Apple\u2019s Genmoji to Create New Kinds of Emojis",
+                "link": "https://www.wired.com/story/how-to-create-genmoji-iphone-ios-18-ipados-18/",
+                "description": "GearByBrenda Stolyar"
+            },
+            {
+                "title": "Want to Avoid AI Scams? Try These Tips From Our Experts",
+                "link": "https://www.wired.com/story/avoid-scams-ai-unlocked-live/",
+                "description": "GearByReece Rogers"
+            },
+            {
+                "title": "What Happens When You Turn Your Life Over to an AI Assistant?",
+                "link": "https://www.wired.com/story/uncanny-valley-podcast-9-ai-assistants/",
+                "description": "BusinessByLauren Goode,Michael Calore, andZo\u00eb Schiffer"
+            },
+            {
+                "title": "Why \u2018Beating China\u2019 in AI Brings Its Own Risks",
+                "link": "https://www.wired.com/story/why-beating-china-in-ai-brings-its-own-risks/",
+                "description": "BusinessByWill Knight"
+            },
+            {
+                "title": "AI Agents Are Here. How Much Should We Let Them Do?",
+                "link": "https://www.wired.com/story/the-prompt-ai-agents-how-much-should-we-let-them-do/",
+                "description": "GearByReece Rogers"
+            },
+            {
+                "title": "That Sports News Story You Clicked on Could Be AI Slop",
+                "link": "https://www.wired.com/story/ai-slop-sports-news-sites/",
+                "description": "BusinessByKate Knibbs"
+            },
+            {
+                "title": "GPS Is Vulnerable to Attack. Magnetic Navigation Can Help",
+                "link": "https://www.wired.com/story/google-startup-wants-to-revolutionize-satellite-navigation/",
+                "description": "ScienceByDario d\u2019Elia"
+            },
+            {
+                "title": "A Spymaster Sheikh Controls a $1.5 Trillion Fortune. He Wants to Use It to Dominate AI",
+                "link": "https://www.wired.com/story/uae-intelligence-chief-ai-money/",
+                "description": "The Big StoryByBradley Hope"
+            },
+            {
+                "title": "New US Rule Aims to Block China\u2019s Access to AI Chips and Models by Restricting the World",
+                "link": "https://www.wired.com/story/new-us-rule-aims-to-block-chinas-access-to-ai-chips-and-models-by-restricting-the-world/",
+                "description": "BusinessByWill Knight"
+            },
+            {
+                "title": "AI Financial Advisers Target Young People Living Paycheck to Paycheck",
+                "link": "https://www.wired.com/story/ai-financial-advisers-apps-chatbots/",
+                "description": "Artificial IntelligenceByReece Rogers"
+            },
+            {
+                "title": "Meta Secretly Trained Its AI on a Notorious Piracy Database, Newly Unredacted Court Docs Reveal",
+                "link": "https://www.wired.com/story/new-documents-unredacted-meta-copyright-ai-lawsuit/",
+                "description": "BusinessByKate Knibbs"
+            },
+            {
+                "title": "Before Las Vegas, Intel Analysts Warned That Bomb Makers Were Turning to AI",
+                "link": "https://www.wired.com/story/las-vegas-bombing-cybertruck-trump-intel-dhs-ai/",
+                "description": "PoliticsByDell Cameron"
+            },
+            {
+                "title": "Your Next AI Wearable Will Listen to Everything All the Time",
+                "link": "https://www.wired.com/story/bee-ai-omi-always-listening-ai-wearables/",
+                "description": "GearByJulian Chokkattu"
+            },
+            {
+                "title": "AI Social Media Users Are Not Always a Totally Dumb Idea",
+                "link": "https://www.wired.com/story/ai-social-media-users-are-not-always-a-totally-dumb-idea/",
+                "description": "BusinessByWill Knight"
+            },
+            {
+                "title": "To Interact With the Real World, AI Will Gain Physical Intelligence",
+                "link": "https://www.wired.com/story/ai-physical-intelligence-machine-learning/",
+                "description": "BusinessByDaniela Rus"
+            },
+            {
+                "title": "AI Hardware Is in Its \u2018Put Up or Shut Up\u2019 Era",
+                "link": "https://www.wired.com/story/ces-2025-ai-hardware-is-in-its-put-up-or-shut-up-era/",
+                "description": "GearByBoone Ashworth"
+            },
+            {
+                "title": "A Book App Used AI to \u2018Roast\u2019 Its Users. It Went Anti-Woke Instead",
+                "link": "https://www.wired.com/story/fable-controversy-ai-summaries/",
+                "description": "BusinessByKate Knibbs"
+            },
+            {
+                "title": "Dictatorships Will Be Vulnerable to Algorithms",
+                "link": "https://www.wired.com/story/dictatorships-will-be-vulnerable-to-algorithms/",
+                "description": "PoliticsByYuval Noah Harari"
+            },
+            {
+                "title": "Editors at Science Journal Resign En Masse Over Bad Use of AI, High Fees",
+                "link": "https://www.wired.com/story/editors-at-science-journal-resign-en-masse-over-bad-use-of-ai-high-fees/",
+                "description": "ScienceByJennifer Ouellette, Ars Technica"
+            },
+            {
+                "title": "Want to Avoid AI Scams? Try These Tips From Our Experts",
+                "link": "https://www.wired.com/story/avoid-scams-ai-unlocked-live/",
+                "description": "GearByReece Rogers"
+            },
+            {
+                "title": "WIRED\u2019s 2024 Year-in-Review Quiz: From AI Slop to Human Brain Implants",
+                "link": "https://www.wired.com/story/2024-year-in-review-quiz/",
+                "description": "GearByReece Rogers"
+            },
+            {
+                "title": "Botto, the Millionaire AI Artist, Is Getting a Personality",
+                "link": "https://www.wired.com/story/botto-the-millionaire-ai-artist-is-getting-a-personality/",
+                "description": "BusinessByWill Knight"
+            },
+            {
+                "title": "The Edgelord AI That Turned a Shock Meme Into Millions in Crypto",
+                "link": "https://www.wired.com/story/truth-terminal-goatse-crypto-millionaire/",
+                "description": "BusinessByJoel Khalili"
+            },
+            {
+                "title": "Tips for Chat GPT\u2019s Voice Mode? Best AI Uses for Retirees? Our Expert Answers Your Questions",
+                "link": "https://www.wired.com/story/subscriber-only-livestream-with-reece-rogers-ai-unlocked-2/",
+                "description": "GearByReece Rogers"
+            },
+            {
+                "title": "Harvard Is Releasing a Massive Free AI Training Dataset Funded by Open AI and Microsoft",
+                "link": "https://www.wired.com/story/harvard-ai-training-dataset-openai-microsoft/",
+                "description": "BusinessByKate Knibbs"
+            },
+            {
+                "title": "Only Fans Models Are Using AI Impersonators to Keep Up With Their DMs",
+                "link": "https://www.wired.com/story/onlyfans-models-are-using-ai-impersonators-to-keep-up-with-their-dms/",
+                "description": "BusinessByKate Knibbs"
+            },
+            {
+                "title": "Open AI Is Working With Anduril to Supply the US Military With AI",
+                "link": "https://www.wired.com/story/openai-anduril-defense/",
+                "description": "Artificial IntelligenceByWill Knight"
+            },
+            {
+                "title": "This AI-Powered Site Helps You Shop for Vintage and Secondhand Items",
+                "link": "https://www.wired.com/story/encore-ai-powered-search-vintage-secondhand-shopping/",
+                "description": "GearByElissaveta M. Brandon"
+            },
+            {
+                "title": "Open AI Poaches 3 Top Engineers From Deep Mind",
+                "link": "https://www.wired.com/story/openai-hires-deepmind-zurich/",
+                "description": "BusinessByReece RogersandLouise Matsakis"
+            },
+            {
+                "title": "This Website Shows How Much Google\u2019s AI Can Glean From Your Photos",
+                "link": "https://www.wired.com/story/website-google-ai-photos-ente/",
+                "description": "BusinessByParesh Dave"
+            },
+            {
+                "title": "How Best to Use Chat GPT, Gemini, and Other AI Tools? Our AI Expert Answers Your Questions",
+                "link": "https://www.wired.com/story/subscriber-only-livestream-with-reece-rogers-ai-unlocked/",
+                "description": "GearByMichael Calore"
+            },
+            {
+                "title": "The Man Behind Amazon\u2019s Robot Army Wants Everyone to Have an AI-Powered Helper",
+                "link": "https://www.wired.com/story/robot-army-proxie-humanoid/",
+                "description": "BusinessByWill Knight"
+            },
+            {
+                "title": "The US Patent and Trademark Office Banned Staff From Using Generative AI",
+                "link": "https://www.wired.com/story/us-patent-trademark-office-internally-banned-generative-ai/",
+                "description": "Artificial IntelligenceByReece Rogers"
+            },
+            {
+                "title": "A US Ban on Investing in Chinese AI Startups Could Escalate Under Trump",
+                "link": "https://www.wired.com/story/treasury-outbound-investment-china-artificial-intelligence/",
+                "description": "Artificial IntelligenceByZeyi Yang"
+            },
+            {
+                "title": "Some of Substack\u2019s Biggest Newsletters Rely On AI Writing Tools",
+                "link": "https://www.wired.com/story/substacks-writers-use-ai-chatgpt/",
+                "description": "BusinessByKate Knibbs"
+            },
+            {
+                "title": "The First Entirely AI-Generated Video Game Is Insanely Weird and Fun",
+                "link": "https://www.wired.com/story/first-entirely-ai-generated-video-game-weird-and-fun/",
+                "description": "BusinessByWill Knight"
+            },
+            {
+                "title": "This Is a Glimpse of the Future of AI Robots",
+                "link": "https://www.wired.com/story/physical-intelligence-home-robot/",
+                "description": "BusinessByWill Knight"
+            }
+        ],
+        "Hardware/Embedded Systems": [
+            {
+                "title": "No Commentson Next PCB offers free PCBA prototypes for RP 2350/RP 2040 designs, RP 2040 MCU as low as 30 cents (Sponsored)",
+                "link": "https://www.cnx-software.com/2025/01/20/nextpcb-free-pcba-prototypes-for-rp2040-rp2350-designs-discounted-rp2040-mcu/#respond",
+                "description": "Posted onJanuary 20, 2025January 20, 2025bySponsored Post-"
+            },
+            {
+                "title": "Next PCB offers free PCBA prototypes for RP 2350/RP 2040 designs, RP 2040 MCU as low as 30 cents (Sponsored)",
+                "link": "https://www.cnx-software.com/2025/01/20/nextpcb-free-pcba-prototypes-for-rp2040-rp2350-designs-discounted-rp2040-mcu/",
+                "description": ""
+            },
+            {
+                "title": "1 Commenton AAEON BOXER-8654 AI-KIT \u2013 NVIDIA Jetson Orin NX-based Edge AI kit features four gigabit Ethernet ports with Po E support",
+                "link": "https://www.cnx-software.com/2025/01/21/aaeon-boxer-8654ai-kit-nvidia-jetson-orin-nx-based-edge-ai-kit-features-four-gigabit-ethernet-ports-with-poe-support/#comments",
+                "description": "Posted onJanuary 21, 2025January 20, 2025byDebashis Das-"
+            },
+            {
+                "title": "AAEON BOXER-8654 AI-KIT \u2013 NVIDIA Jetson Orin NX-based Edge AI kit features four gigabit Ethernet ports with Po E support",
+                "link": "https://www.cnx-software.com/2025/01/21/aaeon-boxer-8654ai-kit-nvidia-jetson-orin-nx-based-edge-ai-kit-features-four-gigabit-ethernet-ports-with-poe-support/",
+                "description": ""
+            },
+            {
+                "title": "2 Commentson Disabling VT-d improves Intel Arc GPU Linux performance on Meteor Lake and newer So Cs",
+                "link": "https://www.cnx-software.com/2025/01/20/disabling-vt-d-improves-intel-arc-gpu-linux-performance-on-meteor-lake-and-newer-socs/#comments",
+                "description": "Posted onJanuary 20, 2025byJean-Luc Aufranc (CNXSoft)-"
+            },
+            {
+                "title": "Disabling VT-d improves Intel Arc GPU Linux performance on Meteor Lake and newer So Cs",
+                "link": "https://www.cnx-software.com/2025/01/20/disabling-vt-d-improves-intel-arc-gpu-linux-performance-on-meteor-lake-and-newer-socs/",
+                "description": ""
+            },
+            {
+                "title": "No Commentson BANDIT PC 32 standalone Color Forth keyboard computer is powered by the Raspberry Pi RP 2350 microcontroller",
+                "link": "https://www.cnx-software.com/2025/01/20/bandit-pc32-standalone-colorforth-keyboard-computer-is-powered-by-the-raspberry-pi-rp2350-microcontroller/#respond",
+                "description": "Posted onJanuary 20, 2025January 20, 2025byTomisin Olujinmi-"
+            },
+            {
+                "title": "BANDIT PC 32 standalone Color Forth keyboard computer is powered by the Raspberry Pi RP 2350 microcontroller",
+                "link": "https://www.cnx-software.com/2025/01/20/bandit-pc32-standalone-colorforth-keyboard-computer-is-powered-by-the-raspberry-pi-rp2350-microcontroller/",
+                "description": ""
+            },
+            {
+                "title": "No Commentson Intel Core Ultra 200 S/200 U/200 H-powered COM-HPC Client modules support up to 192 GB DDR 5 memory, PCIe Gen 5",
+                "link": "https://www.cnx-software.com/2025/01/19/intel-core-ultra-200s-200u-200h-powered-com-hpc-client-modules-support-up-192gb-ddr5-memory-pcie-gen5/#respond",
+                "description": "Posted onJanuary 19, 2025January 19, 2025byDebashis Das-"
+            },
+            {
+                "title": "Intel Core Ultra 200 S/200 U/200 H-powered COM-HPC Client modules support up to 192 GB DDR 5 memory, PCIe Gen 5",
+                "link": "https://www.cnx-software.com/2025/01/19/intel-core-ultra-200s-200u-200h-powered-com-hpc-client-modules-support-up-192gb-ddr5-memory-pcie-gen5/",
+                "description": ""
+            },
+            {
+                "title": "6 Commentson M.2 CAN FD adapter adds CAN Bus support to hosts with a spare M.2 Key-B socket",
+                "link": "https://www.cnx-software.com/2025/01/18/m-2-can-fd-adapter-adds-can-bus-support-to-hosts-with-a-spare-m-2-key-b-socket/#comments",
+                "description": "Posted onJanuary 18, 2025January 20, 2025byDebashis Das-"
+            },
+            {
+                "title": "M.2 CAN FD adapter adds CAN Bus support to hosts with a spare M.2 Key-B socket",
+                "link": "https://www.cnx-software.com/2025/01/18/m-2-can-fd-adapter-adds-can-bus-support-to-hosts-with-a-spare-m-2-key-b-socket/",
+                "description": ""
+            },
+            {
+                "title": "11 Commentson Jack Dorsey talk at FOSDEM 2025 may lead to protest",
+                "link": "https://www.cnx-software.com/2025/01/18/jack-dorsey-talk-at-fosdem-2025-may-lead-to-protest/#comments",
+                "description": "Posted onJanuary 18, 2025January 18, 2025byJean-Luc Aufranc (CNXSoft)-"
+            },
+            {
+                "title": "Jack Dorsey talk at FOSDEM 2025 may lead to protest",
+                "link": "https://www.cnx-software.com/2025/01/18/jack-dorsey-talk-at-fosdem-2025-may-lead-to-protest/",
+                "description": ""
+            },
+            {
+                "title": "Crow Panel Advance: ESP 32-S 3 displays with replaceable Wi Fi 6, Thread, Zigbee, Lo Ra, and 2.4 GHz wireless modules",
+                "link": "https://www.cnx-software.com/2025/01/17/crowpanel-advance-esp32-s3-displays-with-replaceable-wifi-6-thread-zigbee-lora-and-2-4ghz-wireless-modules/",
+                "description": "4.9k views|1 comment"
+            },
+            {
+                "title": "Fully enclosed ESP 32-S 3 board features 1.8-inch AMOLED, microphone & speaker for AI audio applications",
+                "link": "https://www.cnx-software.com/2025/01/13/fully-enclosed-esp32-s3-board-features-1-8-inch-amoled-microphone-speaker-for-ai-audio-applications/",
+                "description": "4.3k views|1 comment"
+            },
+            {
+                "title": "ESP 32-based Waveshare DDSM Driver HAT (B) for Raspberry Pi supports DDSM 400 hub motors",
+                "link": "https://www.cnx-software.com/2025/01/15/esp32-based-waveshare-ddsm-driver-hat-b-for-raspberry-pi-supports-ddsm400-hub-motors/",
+                "description": "2.9k views|0 comments"
+            },
+            {
+                "title": "SONOFF MINI-D Review \u2013 A Matter-enabled dry contact Wi Fi switch tested with e We Link, Home Assistant, and Apple Home",
+                "link": "https://www.cnx-software.com/2025/01/15/sonoff-mini-d-review-matter-enabled-dry-contact-wifi-switch-ewelink-home-assistant-apple-home/",
+                "description": "2.9k views|7 comments"
+            },
+            {
+                "title": "AAEON BOXER-8654 AI-KIT \u2013 NVIDIA Jetson Orin NX-based Edge AI kit features four gigabit Ethernet ports with Po E support",
+                "link": "https://www.cnx-software.com/2025/01/21/aaeon-boxer-8654ai-kit-nvidia-jetson-orin-nx-based-edge-ai-kit-features-four-gigabit-ethernet-ports-with-poe-support/#comment-639508",
+                "description": "urostoron"
+            },
+            {
+                "title": "Radxa Cubie A 5 E \u2013 A compact Allwinner A 527/T 527 SBC with HDMI 2.0, dual Gb E, Wi Fi 6, Bluetooth 5.4",
+                "link": "https://www.cnx-software.com/2025/01/04/radxa-cubie-a5e-allwinner-a527-t527-sbc-with-hdmi-2-0-dual-gbe-wifi-6-bluetooth-5-4/#comment-639434",
+                "description": "Rogan Daweson"
+            },
+            {
+                "title": "M.2 CAN FD adapter adds CAN Bus support to hosts with a spare M.2 Key-B socket",
+                "link": "https://www.cnx-software.com/2025/01/18/m-2-can-fd-adapter-adds-can-bus-support-to-hosts-with-a-spare-m-2-key-b-socket/#comment-639433",
+                "description": "Windon"
+            },
+            {
+                "title": "Disabling VT-d improves Intel Arc GPU Linux performance on Meteor Lake and newer So Cs",
+                "link": "https://www.cnx-software.com/2025/01/20/disabling-vt-d-improves-intel-arc-gpu-linux-performance-on-meteor-lake-and-newer-socs/#comment-639386",
+                "description": "Willyon"
+            },
+            {
+                "title": "M.2 CAN FD adapter adds CAN Bus support to hosts with a spare M.2 Key-B socket",
+                "link": "https://www.cnx-software.com/2025/01/18/m-2-can-fd-adapter-adds-can-bus-support-to-hosts-with-a-spare-m-2-key-b-socket/#comment-639376",
+                "description": "Liam Kinneon"
+            },
+            {
+                "title": "Disabling VT-d improves Intel Arc GPU Linux performance on Meteor Lake and newer So Cs",
+                "link": "https://www.cnx-software.com/2025/01/20/disabling-vt-d-improves-intel-arc-gpu-linux-performance-on-meteor-lake-and-newer-socs/",
+                "description": "In this post, I\u2019ll check whether disabling VT-d virtualization support may improve the performance of[\u2026]"
+            },
+            {
+                "title": "SONOFF MINI-D Review \u2013 A Matter-enabled dry contact Wi Fi switch tested with e We Link, Home Assistant, and Apple Hom\u2026",
+                "link": "https://www.cnx-software.com/2025/01/15/sonoff-mini-d-review-matter-enabled-dry-contact-wifi-switch-ewelink-home-assistant-apple-home/",
+                "description": "SONOFF sent us a sample of the MINI-D Wi-Fi smart switch with a dry contact design for review. If you\u2019re[\u2026]"
+            },
+            {
+                "title": "Review of SMARTHON Smart City Io T Starter Kit for BBC Micro:bit",
+                "link": "https://www.cnx-software.com/2025/01/13/review-smarthon-smart-city-iot-starter-kit-for-bbc-microbit/",
+                "description": "SMARTHON Smart City IoT Starter Kit for micro:bit is an educational kit for 10+ years old teaching basic[\u2026]"
+            },
+            {
+                "title": "\uf0e0Reach out to get featured\u2014contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/feedback!",
+                "link": "https://thehackernews.com/p/submit-news.html",
+                "description": ""
+            },
+            {
+                "title": "MITRE Unveils EMB 3 D: A Threat-Modeling Framework for Embedded Devices\ue802May 13, 2024 The MITRE Corporation has officially made available a new threat-modeling framework called EMB 3 D for makers of embedded devices used in critical infrastructure environments. \"The model provides a cultivated knowledge base of cyber threats to embedded devices, providing a common understanding of these threats with the security mechanisms required to mitigate them,\" the non-profit said in a post announcing the move. A draft version of the model, which has been conceived in collaboration with Niyo 'Little Thunder' Pearson, Red Balloon Security, and Narf Industries, was previously released on December 13, 2023. EMB 3 D, like the ATT&CK framework , is expected to be a \"living framework,\" with new and mitigations added and updated over time as new actors, vulnerabilities, and attack vectors emerge, but with a specific focus on embedded devices. The ultimate goal is to provide device vendors with a unified picture of dif...",
+                "link": "https://thehackernews.com/2024/05/mitre-unveils-emb3d-threat-modeling.html",
+                "description": "MITRE Unveils EMB3D: A Threat-Modeling Framework for Embedded Devices\ue802May 13, 2024The MITRE Corporation has officially made available a new threat-modeling framework called EMB3D for makers of embedded devices used in critical infrastructure enviro..."
+            },
+            {
+                "title": "Unpatched Critical Flaws Disclosed in U-Boot Bootloader for Embedded Devices\ue802Jun 06, 2022 Cybersecurity researchers have disclosed two unpatched security vulnerabilities in the open-source U-Boot boot loader. The issues, which were uncovered in the IP defragmentation algorithm implemented in U-Boot by NCC Group, could be abused to achieve arbitrary out-of-bounds write and denial-of-service (Do S). U-Boot is a boot loader used in Linux-based embedded systems such as Chrome OS as well as ebook readers such as Amazon Kindle and Kobo e Reader. The issues are summarized below - CVE-2022-30790 (CVSS score: 9.6) - Hole Descriptor overwrite in U-Boot IP packet defragmentation leads to an arbitrary out-of-bounds write primitive. CVE-2022-30552 (CVSS score: 7.1) - Large buffer overflow leads to Do S in U-Boot IP packet defragmentation code It's worth noting that both the flaws are exploitable only from the local network. But doing so can enable an attacker to root the devices and lead to a Do S by crafting a malformed packet. The s...",
+                "link": "https://thehackernews.com/2022/06/unpatched-critical-flaws-disclosed-in-u.html",
+                "description": "Unpatched Critical Flaws Disclosed in U-Boot Bootloader for Embedded Devices\ue802Jun 06, 2022Cybersecurity researchers have disclosed two unpatched security vulnerabilities in the open-source U-Boot boot loader. The issues, which were uncovered in the..."
+            },
+            {
+                "title": "Future-Ready Trust: Learn How to Manage Certificates Like Never Before\ue802Webinar Trust Management / SSL Certificate Managing digital trust shouldn't feel impossible. Join us to discover how Digi Cert ONE transforms certificate management\u2014streamlining trust operations, ensuring compliance, and future-proofing your digital strategy.",
+                "link": "https://thehacker.news/digital-trust-enterprise?source=newsfeed",
+                "description": "Future-Ready Trust: Learn How to Manage Certificates Like Never Before\ue802WebinarTrust Management / SSL CertificateManaging digital trust shouldn't feel impossible. Join us to discover how DigiCert ONE transforms certificate management\u2014streamlining trus..."
+            },
+            {
+                "title": "Critical Bugs Found in Popular Realtek Wi-Fi Module for Embedded Devices\ue802Feb 04, 2021 Major vulnerabilities have been discovered in the Realtek RTL 8195 A Wi-Fi module that could have been exploited to gain root access and take complete control of a device's wireless communications. The six flaws were reported by researchers from Israeli Io T security firm Vdoo. The Realtek RTL 8195 A module is a standalone, low-power-consumption Wi-Fi hardware module targeted at embedded devices used in several industries such as agriculture, smart home, healthcare, gaming, and automotive sectors. It also makes use of an \"Ameba\" API, allowing developers to communicate with the device via Wi-Fi, HTTP, and MQTT , a lightweight messaging protocol for small sensors and mobile devices. Although the issues uncovered by Vdoo were verified only on RTL 8195 A, the researchers said they extend to other modules as well, including RTL 8711 AM, RTL 8711 AF, and RTL 8710 AF. The flaws concern a mix of stack overflow, and out-of-bounds reads that stem from the Wi-Fi module's WP...",
+                "link": "https://thehackernews.com/2021/02/critical-bugs-found-in-popular-realtek.html",
+                "description": "Critical Bugs Found in Popular Realtek Wi-Fi Module for Embedded Devices\ue802Feb 04, 2021Major vulnerabilities have been discovered in the Realtek RTL8195A Wi-Fi module that could have been exploited to gain root access and take complete control of a dev..."
+            },
+            {
+                "title": "2024: A Year of Identity Attacks | Get the New e Book Push Security Identity Security Prepare to defend against identity attacks in 2025 by looking back at identity-based breaches in 2024.",
+                "link": "https://thehackernews.uk/saas-attacks-2024",
+                "description": ""
+            },
+            {
+                "title": "Critical Flaws Found in Vx Works RTOS That Powers Over 2 Billion Devices\ue802Jul 29, 2019 Security researchers have discovered almost a dozen zero-day vulnerabilities in Vx Works, one of the most widely used real-time operating systems (RTOS) for embedded devices that powers over 2 billion devices across aerospace, defense, industrial, medical, automotive, consumer electronics, networking, and other critical industries. According to a new report Armis researchers shared with The Hacker News prior to its release, the vulnerabilities are collectively dubbed as URGENT/11 as they are 11 in total, 6 of which are critical in severity leading to 'devastating' cyberattacks. Armis Labs is the same Io T security company that previously discovered the Blue Borne vulnerabilities in Bluetooth protocol that impacted more than 5.3 Billion devices\u2014from Android, i OS, Windows and Linux to the Internet of things (Io T). These vulnerabilities could allow remote attackers to bypass traditional security solutions and take full control over affected devices or \"cause disruption on...",
+                "link": "https://thehackernews.com/2019/07/vxworks-rtos-vulnerability.html",
+                "description": "Critical Flaws Found in VxWorks RTOS That Powers Over 2 Billion Devices\ue802Jul 29, 2019Security researchers have discovered almost a dozen zero-day vulnerabilities in VxWorks, one of the most widely used real-time operating systems (RTOS) for embedded d..."
+            },
+            {
+                "title": "Critical Flaws Found in Amazon Free RTOS Io T Operating System\ue802Oct 19, 2018 A security researcher has discovered several critical vulnerabilities in one of the most popular embedded real-time operating systems\u2014called Free RTOS\u2014and its other variants, exposing a wide range of Io T devices and critical infrastructure systems to hackers. What is Free RTOS (Amazon, WHIS Open RTOS, Safe RTOS)? Free RTOS is a leading open source real-time operating system (RTOS) for embedded systems that has been ported to over 40 microcontrollers, which are being used in Io T, aerospace, medical, automotive industries, and more. RTOS has specifically been designed to carefully run applications with very precise timing and a high degree of reliability, every time. A pacemaker is an excellent example of the real-time embedded system that contracts heart muscle at the right time, a process that can't afford delays, to keep a person alive. Since late last year, Free RTOS project is being managed by Amazon, who created Amazon Free RTOS (a:Free RTOS) Io T operating system for mic...",
+                "link": "https://thehackernews.com/2018/10/amazon-freertos-iot-os.html",
+                "description": "Critical Flaws Found in Amazon FreeRTOS IoT Operating System\ue802Oct 19, 2018A security researcher has discovered several critical vulnerabilities in one of the most popular embedded real-time operating systems\u2014called FreeRTOS\u2014and its other variants, exp..."
+            },
+            {
+                "title": "This Tiny Computer has no Battery, Powered Wirelessly from Radio Waves\ue802Apr 27, 2016 No matter how smart and fast your devices would be, the biggest issue is always with the battery technology. Whenever you go to buy any electronic gadget \u2014 smartphone, laptop, or any wearable \u2014 the most important specification isn't its processor speed or its camera quality but its Battery Backup , which is not getting better any time soon. What if you could eliminate the very thing entirely? Well, that's exactly what the electrical engineers from the University of Washington has developed. A team of researchers from the University of Washington's Sensor Lab and the Delft University of Technology has developed a new gadget that doesn't need a battery or any external power source to keep it powered; rather it works on radio waves. So, this means you have to turn on your radio every time to keep this device charged. Right? No, you don't need to do this at all, because the device sucks radio waves out of the air and then converts them into electricity. Wireless Ident...",
+                "link": "https://thehackernews.com/2016/04/radio-wireless-power.html",
+                "description": "This Tiny Computer has no Battery, Powered Wirelessly from Radio Waves\ue802Apr 27, 2016No matter how smart and fast your devices would be, the biggest issue is always with the battery technology. Whenever you go to buy any electronic gadget \u2014 smartphon..."
+            },
+            {
+                "title": "Millions of Io T Devices Using Same Hard-Coded CRYPTO Keys\ue802Nov 27, 2015 Millions of embedded devices, including home routers, modems, IP cameras, Vo IP phones, are shareing the same hard-coded SSH (Secure Shell) cryptographic keys or HTTPS (HTTP Secure) server certificates that expose them to various types of malicious attacks. A new analysis by IT security consultancy SEC Consult shows that the lazy manufacturers of the Internet of Things (Io Ts) and Home Routers are reusing the same set of hard-coded cryptographic keys, leaving devices open to Hijacking. In simple words, this means that if you are able to access one device remotely, you can possibly log into hundreds of thousands of other devices \u2013 including the devices from different manufacturers. Re-Using Same Encryption Keys In its survey of Io T devices , the company studied 4,000 embedded devices from 70 different hardware vendors, ranging from simple home routers to Internet gateway servers, and discovered that\u2026 \u2026over 580 unique private cryptographic keys for SSH and HTTPS a...",
+                "link": "https://thehackernews.com/2015/11/iot-device-crypto-keys.html",
+                "description": "Millions of IoT Devices Using Same Hard-Coded CRYPTO Keys\ue802Nov 27, 2015Millions of embedded devices, including home routers, modems, IP cameras, VoIP phones, are shareing the same hard-coded SSH (Secure Shell) cryptographic keys or HTTPS (HTTP Secur..."
+            },
+            {
+                "title": "BASHLITE Malware leverages Shell Shock Bug to Hijack Devices Running Busy Box\ue802Nov 17, 2014 Cyber criminals are using new malware variants by exploiting GNU Bash vulnerability referred to as Shell Shock ( CVE-2014-6271 ) in order to infect embedded devices running Busy Box software, according to a researcher. A new variant of \" Bashlite \" malware targeting devices running Busy Box software was spotted by the researchers at Trend Micro shortly after the public disclosure of the Shell Shock vulnerability. Busy Box provides set of command line utilities that are specifically designed to run in constrained embedded environments. At compile time, different capabilities can be left out, reducing the size of the binaries, and efforts are made to make them memory efficient. This makes the software an excellent candidate for use in consumer electronics devices, which seem to have been the items of interest in this case. The malware variant, detected as ELF_BASHLITE.A (ELF_FLOODER.W) , when executed on victim's machine, scans compromised networks for device...",
+                "link": "https://thehackernews.com/2014/11/bashlite-malware-leverages-shellshock.html",
+                "description": "BASHLITE Malware leverages ShellShock Bug to Hijack Devices Running BusyBox\ue802Nov 17, 2014Cyber criminals are using new malware variants"
+            },
+            {
+                "title": "Taking the Pain Out of Cybersecurity Reporting: A Practical Guide for MSPs",
+                "link": "https://thehackernews.com/2025/01/taking-pain-out-of-cybersecurity.html",
+                "description": ""
+            },
+            {
+                "title": "Fortinet Warns of New Zero-Day Used in Attacks on Firewalls with Exposed Interfaces",
+                "link": "https://thehackernews.com/2025/01/zero-day-vulnerability-suspected-in.html",
+                "description": ""
+            },
+            {
+                "title": "New 'Sneaky 2 FA' Phishing Kit Targets Microsoft 365 Accounts with 2 FA Code Bypass",
+                "link": "https://thehackernews.com/2025/01/new-sneaky-2fa-phishing-kit-targets.html",
+                "description": ""
+            },
+            {
+                "title": "New UEFI Secure Boot Vulnerability Could Allow Attackers to Load Malicious Bootkits",
+                "link": "https://thehackernews.com/2025/01/new-uefi-secure-boot-vulnerability.html",
+                "description": ""
+            },
+            {
+                "title": "3 Actively Exploited Zero-Day Flaws Patched in Microsoft's Latest Security Update",
+                "link": "https://thehackernews.com/2025/01/3-actively-exploited-zero-day-flaws.html",
+                "description": ""
+            },
+            {
+                "title": "U.S. Sanctions Chinese Cybersecurity Firm Over Treasury Hack Tied to Salt Typhoon",
+                "link": "https://thehackernews.com/2025/01/us-sanctions-chinese-cybersecurity-firm.html",
+                "description": ""
+            },
+            {
+                "title": "European Privacy Group Sues Tik Tok and Ali Express for Illicit Data Transfers to China",
+                "link": "https://thehackernews.com/2025/01/european-privacy-group-sues-tiktok-and.html",
+                "description": ""
+            },
+            {
+                "title": "The $10 Cyber Threat Responsible for the Biggest Breaches of 2024",
+                "link": "https://thehackernews.com/2025/01/the-10-cyber-threat-responsible-for.html",
+                "description": ""
+            },
+            {
+                "title": "The Playbook for Modern Identity Security \u2013 Download This Free Guide Today",
+                "link": "https://thehackernews.uk/identity-protection-guide-cs",
+                "description": ""
+            },
+            {
+                "title": "Shadow AI and Saa S Threats? See How Reco Tackle Them in 6 Minutes",
+                "link": "https://thehackernews.uk/reco-demo-preview",
+                "description": ""
+            },
+            {
+                "title": "Are Your Saa S Apps Truly Secure? Get a Free Saa S Risk Assessment",
+                "link": "https://thehackernews.uk/saas-risk-assessment-wing",
+                "description": ""
+            },
+            {
+                "title": "Zero Trust Security, Why It's Essential In Today's Threat Landscape\ue802January 16, 2025 Read \u279d",
+                "link": "https://thehackernews.com/expert-insights/2025/01/zero-trust-security-why-its-essential.html",
+                "description": "Securing Open Source: Lessons from the Software Supply Chain Revolution\ue802December 2, 2024Read \u279d5 Strategies to Combat Ransomware and Ensure Data Security in Micr..."
+            },
+            {
+                "title": "Securing Open Source: Lessons from the Software Supply Chain Revolution\ue802December 2, 2024 Read \u279d",
+                "link": "https://thehackernews.com/expert-insights/2024/12/securing-open-source-lessons-from.html",
+                "description": "Zero Trust Security, Why It's Essential In Today's Threat Landscape\ue802January 16, 2025Read \u279d5 Strategies to Combat Ransomware and Ensure Data Security in Micr..."
+            },
+            {
+                "title": "5 Strategies to Combat Ransomware and Ensure Data Security in Microsoft 365\ue802December 2, 2024 Read \u279d",
+                "link": "https://thehackernews.com/expert-insights/2024/12/5-strategies-to-combat-ransomware-and.html",
+                "description": "Zero Trust Security, Why It's Essential In Today's Threat Landscape\ue802January 16, 2025Read \u279dSecuring Open Source: Lessons from the Software Supply Chain Revolution\ue802December 2, 2024Read \u279d5 Strategies to Combat Ransomware and Ensure Data Security in Micr..."
+            },
+            {
+                "title": "Defensible Security Architecture and Engineering: Designing and Building Defenses for the Future\ue802November 25, 2024 Read \u279d",
+                "link": "https://thehackernews.com/expert-insights/2024/11/defensible-security-architecture-and.html",
+                "description": "Zero Trust Security, Why It's Essential In Today's Threat Landscape\ue802January 16, 2025Read \u279dSecuring Open Source: Lessons from the Software Supply Chain Revolution\ue802December 2, 2024Read \u279d5 Strategies to Combat Ransomware and Ensure Data Security in Micr..."
+            },
+            {
+                "title": "Stop Playing the Hackers' Game Their Way Companies spend billions of dollars on Firewalls and VPNs\u2014yet breaches continue to rise.",
+                "link": "https://thehackernews.uk/zscaler-legacy-security",
+                "description": ""
+            },
+            {
+                "title": "Discover How to Make CTEM a Reality in 2025: Download Your Guide Now!Ensure CTEM success! Download our ebook for practical tips on using XM Cyber to implement your exposure management strategy.",
+                "link": "https://thehackernews.uk/ctem-stages-gif",
+                "description": ""
+            },
+            {
+                "title": "Gain Critical Cybersecurity Skills at SANS Security East Baltimore 2025 Fast, focused, and expert-led courses to boost your career. Join SANS to level up!",
+                "link": "https://thehackernews.uk/sans-east-2025",
+                "description": ""
+            },
+            {
+                "title": "Want To Excel in Cybersecurity Risk Management?Manage cybersecurity risk with a Georgetown master's degree. Learn more in our Feb. 6 webinar.",
+                "link": "https://thehackernews.uk/cyberrisk-webinar-2025",
+                "description": ""
+            }
+        ],
+        "Cybersecurity": [
+            {
+                "title": "\uf0e0Reach out to get featured\u2014contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/feedback!",
+                "link": "https://thehackernews.com/p/submit-news.html",
+                "description": ""
+            },
+            {
+                "title": "Unsecured Tunneling Protocols Expose 4.2 Million Hosts, Including VPNs and Routers\ue802Jan 20, 2025 Network Security / Vulnerability New research has uncovered security vulnerabilities in multiple tunneling protocols that could allow attackers to perform a wide range of attacks. \"Internet hosts that accept tunneling packets without verifying the sender's identity can be hijacked to perform anonymous attacks and provide access to their networks,\" Top 10 VPN said in a study, as part of a collaboration with KU Leuven professor and researcher Mathy Vanhoef. As many as 4.2 million hosts have been found susceptible to the attacks, including VPN servers, ISP home routers, core internet routers, mobile network gateways, and content delivery network (CDN) nodes. China, France, Japan, the U.S., and Brazil top the list of the most affected countries. Successful exploitation of the shortcomings could permit an adversary to abuse a susceptible system as one-way proxies, as well as conduct denial-of-service (Do S) attacks. \"An adversary can abuse these security vulnerabilities to create one-way proxies an...",
+                "link": "https://thehackernews.com/2025/01/unsecured-tunneling-protocols-expose-42.html",
+                "description": "Unsecured Tunneling Protocols Expose 4.2 Million Hosts, Including VPNs and Routers\ue802Jan 20, 2025Network Security / VulnerabilityNew research has uncovered security vulnerabilities in multiple tunneling protocols that could allow attackers to perform ..."
+            },
+            {
+                "title": "Do Not Team Linked to New Tanzeem Android Malware Targeting Intelligence Collection\ue802Jan 20, 2025 Android / Malware The Threat actor known as Do Not Team has been linked to a new Android malware as part of highly targeted cyber attacks. The artifacts in question, named Tanzeem (meaning \"organization\" in Urdu) and Tanzeem Update, were spotted in October and December 2024 by cybersecurity company Cyfirma. The apps in question have been found to incorporate identical functions, barring minor modifications to the user interface. \"Although the app is supposed to function as a chat application, it does not work once installed, shutting down after the necessary permissions are granted,\" Cyfirma noted in a Friday analysis. \"The app's name suggests that it is designed to target specific individuals or groups both inside and outside the country.\" Do Not Team, also tracked as APT-C-35, Origami Elephant, SECTOR 02, and Viceroy Tiger, is a hacking group believed to be of Indian origin, with historical attacks leveraging spear-phishing emails and Android malware families to...",
+                "link": "https://thehackernews.com/2025/01/donot-team-linked-to-new-tanzeem.html",
+                "description": "DoNot Team Linked to New Tanzeem Android Malware Targeting Intelligence Collection\ue802Jan 20, 2025Android / MalwareThe Threat actor known as DoNot Team has been linked to a new Android malware as part of highly targeted cyber attacks. The artifacts i..."
+            },
+            {
+                "title": "\u26a1 THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [20 January]\ue802Jan 20, 2025 As the digital world becomes more complicated, the lines between national security and cybersecurity are starting to fade. Recent cyber sanctions and intelligence moves show a reality where malware and fake news are used as tools in global politics. Every cyberattack now seems to have deeper political consequences. Governments are facing new, unpredictable threats that can't be fought with old-school methods. To stay ahead, we need to understand how cybersecurity is now tied to diplomacy, where the safety of networks is just as important as the power of words. \u26a1 Threat of the Week U.S. Treasury Sanctions Chinese and North Korean Entities \u2014 The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) leveled sanctions against a Chinese cybersecurity company (Sichuan Juxinhe Network Technology Co., LTD.) and a Shanghai-based cyber actor (Yin Kecheng) over their alleged links to Salt Typhoon and Silk Typhoon threat clusters. Kecheng was associated with the breach of...",
+                "link": "https://thehackernews.com/2025/01/thn-weekly-recap-top-cybersecurity_20.html",
+                "description": "\u26a1 THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [20 January]\ue802Jan 20, 2025As the digital world becomes more complicated, the lines between national security and cybersecurity are starting to fade. Recent cyber sanctions and intelligence ..."
+            },
+            {
+                "title": "2024: A Year of Identity Attacks | Get the New e Book Push Security Identity Security Prepare to defend against identity attacks in 2025 by looking back at identity-based breaches in 2024.",
+                "link": "https://thehackernews.uk/saas-attacks-2024",
+                "description": ""
+            },
+            {
+                "title": "Product Walkthrough: How Satori Secures Sensitive Data From Production to AI\ue802Jan 20, 2025 Data Security / Data Monitoring Every week seems to bring news of another data breach, and it's no surprise why: securing sensitive data has become harder than ever. And it's not just because companies are dealing with orders of magnitude more data. Data flows and user roles are constantly shifting, and data is stored across multiple technologies and cloud environments. Not to mention, compliance requirements are only getting stricter and more elaborate. The problem is that while the data landscape has evolved rapidly, the usual strategies for securing that data are stuck in the past. Gone are the days when data lived in predictable places, with access controlled by a chosen few. Today, practically every department in the business needs to use customer data, and AI adoption means huge datasets, and a constant flux of permissions, use cases, and tools. Security teams are struggling to implement effective strategies for securing sensitive data, and a new crop of tools, called data security platforms, have appear...",
+                "link": "https://thehackernews.com/2025/01/product-walkthrough-how-satori.html",
+                "description": "Product Walkthrough: How Satori Secures Sensitive Data From Production to AI\ue802Jan 20, 2025Data Security / Data MonitoringEvery week seems to bring news of another data breach, and it's no surprise why: securing sensitive data has become harder than ev..."
+            },
+            {
+                "title": "Hackers Deploy Malicious npm Packages to Steal Solana Wallet Keys via Gmail SMTP\ue802Jan 20, 2025 Supply Chain Attack / Solana Cybersecurity researchers have identified three sets of malicious packages across the npm and Python Package Index (Py PI) repository that come with capabilities to steal data and even delete sensitive data from infected systems. The list of identified packages is below - @async-mutex/mutex, a typosquat of async-mute (npm) dexscreener, which masquerades as a library for accessing liquidity pool data from decentralized exchanges (DEXs) and interacting with the DEX Screener platform (npm) solana-transaction-toolkit (npm) solana-stable-web-huks (npm) cschokidar-next, a typosquat of chokidar (npm) achokidar-next, a typosquat of chokidar (npm) achalk-next, a typosquat of chalk (npm) csbchalk-next, a typosquat of chalk (npm) cschalk, a typosquat of chalk (npm) pycord-self, a typosquat of discord.py-self (Py PI) Supply chain security company Socket, which discovered the packages, said the first four packages are designed to intercept Solana private keys and transmit them throug...",
+                "link": "https://thehackernews.com/2025/01/hackers-deploy-malicious-npm-packages.html",
+                "description": "Hackers Deploy Malicious npm Packages to Steal Solana Wallet Keys via Gmail SMTP\ue802Jan 20, 2025Supply Chain Attack / SolanaCybersecurity researchers have identified three sets of malicious packages across the npm and Python Package Index (PyPI) reposit..."
+            },
+            {
+                "title": "Future-Ready Trust: Learn How to Manage Certificates Like Never Before\ue802Webinar Trust Management / SSL Certificate Managing digital trust shouldn't feel impossible. Join us to discover how Digi Cert ONE transforms certificate management\u2014streamlining trust operations, ensuring compliance, and future-proofing your digital strategy.",
+                "link": "https://thehacker.news/digital-trust-enterprise?source=newsfeed",
+                "description": "Future-Ready Trust: Learn How to Manage Certificates Like Never Before\ue802WebinarTrust Management / SSL CertificateManaging digital trust shouldn't feel impossible. Join us to discover how DigiCert ONE transforms certificate management\u2014streamlining trus..."
+            },
+            {
+                "title": "Tik Tok Goes Dark in the U.S. as Federal Ban Takes Effect January 19, 2025\ue802Jan 19, 2025 Social Media / Data Privacy Popular video-sharing social network Tik Tok has officially gone dark in the United States, as a federal ban on the app comes into effect on January 19, 2025. \"We regret that a U.S. law banning Tik Tok will take effect on January 19 and force us to make our services temporarily unavailable,\" the company said in a pop-up message. \"We're working to restore our service in the U.S. as soon as possible, and we appreciate your support. Please stay tuned.\" An immediate outcome of the ban means that existing users will no longer be able to access Tik Tok content, and new users won't be able to download the app from the official app stores for Android and i OS. Other apps from its parent company Byte Dance, including Cap Cut, Lemon 8, and Gauth, have become unavailable as well. The development comes days after the U.S. Supreme Court ruled unanimously to uphold a law requiring that its Byte Dance sell Tik Tok or see it be effectively blocked in the country due to nation...",
+                "link": "https://thehackernews.com/2025/01/tiktok-goes-dark-in-us-as-federal-ban.html",
+                "description": "TikTok Goes Dark in the U.S. as Federal Ban Takes Effect January 19, 2025\ue802Jan 19, 2025Social Media / Data PrivacyPopular video-sharing social network TikTok has officially gone dark in the United States, as a federal ban on the app comes into effect..."
+            },
+            {
+                "title": "U.S. Sanctions Chinese Cybersecurity Firm Over Treasury Hack Tied to Salt Typhoon\ue802Jan 18, 2025 Cyber Espionage / Telecom Security The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) has imposed sanctions against a Chinese cybersecurity company and a Shanghai-based cyber actor for their alleged links to the Salt Typhoon group and the recent compromise of the federal agency. \"People's Republic of China-linked (PRC) malicious cyber actors continue to target U.S. government systems, including the recent targeting of Treasury's information technology (IT) systems, as well as sensitive U.S. critical infrastructure,\" the Treasury said in a press release. The sanctions target Yin Kecheng, who is assessed to have been a cyber actor for over a decade and affiliated with China's Ministry of State Security (MSS). Kecheng, per the Treasury, was associated with the breach of its own network that came to light earlier this month. The incident involved a hack of Beyond Trust's systems that allowed the threat actors to infiltrate some of the company's Remote Support Saa S inst...",
+                "link": "https://thehackernews.com/2025/01/us-sanctions-chinese-cybersecurity-firm.html",
+                "description": "U.S. Sanctions Chinese Cybersecurity Firm Over Treasury Hack Tied to Salt Typhoon\ue802Jan 18, 2025Cyber Espionage / Telecom SecurityThe U.S. Treasury Department's Office of Foreign Assets Control (OFAC) has imposed sanctions against a Chinese cybersecuri..."
+            },
+            {
+                "title": "Critical Flaws in WGS-804 HPT Switches Enable RCE and Network Exploitation\ue802Jan 17, 2025 Firmware Security / Vulnerability Cybersecurity researchers have disclosed three security flaws in Planet Technology's WGS-804 HPT industrial switches that could be chained to achieve pre-authentication remote code execution on susceptible devices. \"These switches are widely used in building and home automation systems for a variety of networking applications,\" Claroty's Tomer Goldschmidt said in a Thursday report. \"An attacker who is able to remotely control one of these devices can use them to further exploit devices in an internal network and do lateral movement.\" The operational technology security firm, which carried out an extensive analysis of the firmware used in these switches using the QEMU framework, said the vulnerabilities are rooted in the dispatcher.cgi interface used to provide a web service. The list of flaws is below - CVE-2024-52558 (CVSS score: 5.3) - An integer underflow flaw that can allow an unauthenticated attacker to send a malformed HTTP request, resulting in...",
+                "link": "https://thehackernews.com/2025/01/critical-flaws-in-wgs-804hpt-switches.html",
+                "description": "Critical Flaws in WGS-804HPT Switches Enable RCE and Network Exploitation\ue802Jan 17, 2025Firmware Security / VulnerabilityCybersecurity researchers have disclosed three security flaws in Planet Technology's WGS-804HPT industrial switches that could be c..."
+            },
+            {
+                "title": "Python-Based Bots Exploiting PHP Servers Fuel Gambling Platform Proliferation\ue802Jan 17, 2025 Web Security / Botnet Cybersecurity researchers have exposed a new campaign that targets web servers running PHP-based applications to promote gambling platforms in Indonesia. \"Over the past two months, a significant volume of attacks from Python-based bots has been observed, suggesting a coordinated effort to exploit thousands of web apps,\" Imperva researcher Daniel Johnston said in an analysis. \"These attacks appear tied to the proliferation of gambling-related sites, potentially as a response to the heightened government scrutiny .\" The Thales-owned company said it has detected millions of requests originating from a Python client that includes a command to install GSocket (aka Global Socket), an open-source tool that can be used to establish a communication channel between two machines regardless of the network perimeter. It's worth noting that GSocket has been put to use in many a cryptojacking operation in recent months, not to mention even exploiting the access provi...",
+                "link": "https://thehackernews.com/2025/01/python-based-bots-exploiting-php.html",
+                "description": "Python-Based Bots Exploiting PHP Servers Fuel Gambling Platform Proliferation\ue802Jan 17, 2025Web Security / BotnetCybersecurity researchers have exposed a new campaign that targets web servers running PHP-based applications to promote gambling platforms..."
+            },
+            {
+                "title": "How to Bring Zero Trust to Wi-Fi Security with a Cloud-based Captive Portal?\ue802Jan 17, 2025 Threat Detection / Zero Trust Recent data breaches have highlighted the critical need to improve guest Wi-Fi infrastructure security in modern business environments. Organizations face increasing pressure to protect their networks while providing convenient access to visitors, contractors, temporary staff, and employees with BYOD. Implementing secure guest Wi-Fi infrastructure has become essential for authenticating access, protecting data, maintaining compliance across all geographies, and ensuring business continuity. Evolved security solutions now combine zero-trust architecture with cloud-based captive portals to enhance network protection. These systems enable organizations to implement strict access controls, verify every device's security status, and maintain network separation. Through advanced features like conditional access and device registration, businesses can now offer secure guest Wi-Fi access while maintaining complete visibility and control over their network resources. Challenges in Wi-Fi Se...",
+                "link": "https://thehackernews.com/2025/01/how-to-bring-zero-trust-to-wi-fi.html",
+                "description": "How to Bring Zero Trust to Wi-Fi Security with a Cloud-based Captive Portal?\ue802Jan 17, 2025Threat Detection / Zero TrustRecent data breaches have highlighted the critical need to improve guest Wi-Fi infrastructure security in modern business environmen..."
+            },
+            {
+                "title": "Taking the Pain Out of Cybersecurity Reporting: A Practical Guide for MSPs",
+                "link": "https://thehackernews.com/2025/01/taking-pain-out-of-cybersecurity.html",
+                "description": ""
+            },
+            {
+                "title": "Fortinet Warns of New Zero-Day Used in Attacks on Firewalls with Exposed Interfaces",
+                "link": "https://thehackernews.com/2025/01/zero-day-vulnerability-suspected-in.html",
+                "description": ""
+            },
+            {
+                "title": "New UEFI Secure Boot Vulnerability Could Allow Attackers to Load Malicious Bootkits",
+                "link": "https://thehackernews.com/2025/01/new-uefi-secure-boot-vulnerability.html",
+                "description": ""
+            },
+            {
+                "title": "New 'Sneaky 2 FA' Phishing Kit Targets Microsoft 365 Accounts with 2 FA Code Bypass",
+                "link": "https://thehackernews.com/2025/01/new-sneaky-2fa-phishing-kit-targets.html",
+                "description": ""
+            },
+            {
+                "title": "3 Actively Exploited Zero-Day Flaws Patched in Microsoft's Latest Security Update",
+                "link": "https://thehackernews.com/2025/01/3-actively-exploited-zero-day-flaws.html",
+                "description": ""
+            },
+            {
+                "title": "U.S. Sanctions Chinese Cybersecurity Firm Over Treasury Hack Tied to Salt Typhoon",
+                "link": "https://thehackernews.com/2025/01/us-sanctions-chinese-cybersecurity-firm.html",
+                "description": ""
+            },
+            {
+                "title": "European Privacy Group Sues Tik Tok and Ali Express for Illicit Data Transfers to China",
+                "link": "https://thehackernews.com/2025/01/european-privacy-group-sues-tiktok-and.html",
+                "description": ""
+            },
+            {
+                "title": "The $10 Cyber Threat Responsible for the Biggest Breaches of 2024",
+                "link": "https://thehackernews.com/2025/01/the-10-cyber-threat-responsible-for.html",
+                "description": ""
+            },
+            {
+                "title": "The Playbook for Modern Identity Security \u2013 Download This Free Guide Today",
+                "link": "https://thehackernews.uk/identity-protection-guide-cs",
+                "description": ""
+            },
+            {
+                "title": "Shadow AI and Saa S Threats? See How Reco Tackle Them in 6 Minutes",
+                "link": "https://thehackernews.uk/reco-demo-preview",
+                "description": ""
+            },
+            {
+                "title": "Are Your Saa S Apps Truly Secure? Get a Free Saa S Risk Assessment",
+                "link": "https://thehackernews.uk/saas-risk-assessment-wing",
+                "description": ""
+            },
+            {
+                "title": "Zero Trust Security, Why It's Essential In Today's Threat Landscape\ue802January 16, 2025 Read \u279d",
+                "link": "https://thehackernews.com/expert-insights/2025/01/zero-trust-security-why-its-essential.html",
+                "description": "Securing Open Source: Lessons from the Software Supply Chain Revolution\ue802December 2, 2024Read \u279d5 Strategies to Combat Ransomware and Ensure Data Security in Micr..."
+            },
+            {
+                "title": "Securing Open Source: Lessons from the Software Supply Chain Revolution\ue802December 2, 2024 Read \u279d",
+                "link": "https://thehackernews.com/expert-insights/2024/12/securing-open-source-lessons-from.html",
+                "description": "Zero Trust Security, Why It's Essential In Today's Threat Landscape\ue802January 16, 2025Read \u279d5 Strategies to Combat Ransomware and Ensure Data Security in Micr..."
+            },
+            {
+                "title": "5 Strategies to Combat Ransomware and Ensure Data Security in Microsoft 365\ue802December 2, 2024 Read \u279d",
+                "link": "https://thehackernews.com/expert-insights/2024/12/5-strategies-to-combat-ransomware-and.html",
+                "description": "Zero Trust Security, Why It's Essential In Today's Threat Landscape\ue802January 16, 2025Read \u279dSecuring Open Source: Lessons from the Software Supply Chain Revolution\ue802December 2, 2024Read \u279d5 Strategies to Combat Ransomware and Ensure Data Security in Micr..."
+            },
+            {
+                "title": "Defensible Security Architecture and Engineering: Designing and Building Defenses for the Future\ue802November 25, 2024 Read \u279d",
+                "link": "https://thehackernews.com/expert-insights/2024/11/defensible-security-architecture-and.html",
+                "description": "Zero Trust Security, Why It's Essential In Today's Threat Landscape\ue802January 16, 2025Read \u279dSecuring Open Source: Lessons from the Software Supply Chain Revolution\ue802December 2, 2024Read \u279d5 Strategies to Combat Ransomware and Ensure Data Security in Micr..."
+            },
+            {
+                "title": "Stop Playing the Hackers' Game Their Way Companies spend billions of dollars on Firewalls and VPNs\u2014yet breaches continue to rise.",
+                "link": "https://thehackernews.uk/zscaler-legacy-security",
+                "description": ""
+            },
+            {
+                "title": "Discover How to Make CTEM a Reality in 2025: Download Your Guide Now!Ensure CTEM success! Download our ebook for practical tips on using XM Cyber to implement your exposure management strategy.",
+                "link": "https://thehackernews.uk/ctem-stages-gif",
+                "description": ""
+            },
+            {
+                "title": "Gain Critical Cybersecurity Skills at SANS Security East Baltimore 2025 Fast, focused, and expert-led courses to boost your career. Join SANS to level up!",
+                "link": "https://thehackernews.uk/sans-east-2025",
+                "description": ""
+            },
+            {
+                "title": "Want To Excel in Cybersecurity Risk Management?Manage cybersecurity risk with a Georgetown master's degree. Learn more in our Feb. 6 webinar.",
+                "link": "https://thehackernews.uk/cyberrisk-webinar-2025",
+                "description": ""
+            },
+            {
+                "title": "Intelligence bill would elevate ransomware to a terrorist threat",
+                "link": "https://cyberscoop.com/ransomware-terrorism-ndaa-2025/",
+                "description": ""
+            },
+            {
+                "title": "Microsoft fixes 159 vulnerabilities in first Patch Tuesday of 2025",
+                "link": "https://cyberscoop.com/microsoft-patch-tuesday-january-2025/",
+                "description": ""
+            },
+            {
+                "title": "Second Biden cyber executive order directs agency action on fed security, AI, space",
+                "link": "https://cyberscoop.com/biden-administration-cybersecurity-executive-order-2025/",
+                "description": ""
+            },
+            {
+                "title": "New Mints Loader Employs Domain Generation Algorithm & Anti-VM Techniques for Sophistication",
+                "link": "https://cybersecuritynews.com/new-mintsloader-employs-domain-generation-algorithm-anti-vm-techniques/",
+                "description": ""
+            },
+            {
+                "title": "Researchers Detailed the Ghostwriter APT Infrastructure Used to Launch Cyber Attacks",
+                "link": "https://cybersecuritynews.com/researchers-detailed-the-ghostwriter-apt-infrastructure/",
+                "description": ""
+            },
+            {
+                "title": "Apple Confirms Tik Tok No Longer Available In Stores For US Users",
+                "link": "https://cybersecuritynews.com/apple-tiktok-ban-us/",
+                "description": ""
+            },
+            {
+                "title": "Chat GPT Crawler Vulnerability Let Attackers Trigger DDo S Attack On Any Websites",
+                "link": "https://cybersecuritynews.com/chatgpt-crawler-vulnerability/",
+                "description": ""
+            },
+            {
+                "title": "AWS Patches Multiple Vulnerabilities in Amazon Work Spaces, Amazon...",
+                "link": "https://cybersecuritynews.com/aws-patches-multiple-vulnerabilities/",
+                "description": ""
+            },
+            {
+                "title": "Smishing Attack Targets i Message Users by Exploiting Built-In...",
+                "link": "https://cybersecuritynews.com/imessage-smishing-attack/",
+                "description": ""
+            },
+            {
+                "title": "Wultra Raises \u20ac3 M to Secure Financial Institutions from...",
+                "link": "https://cybersecuritynews.com/wultra-secures-e3m-to-protect-financial-institutions-from-quantum-threats/",
+                "description": ""
+            },
+            {
+                "title": "New Mints Loader Employs Domain Generation Algorithm & Anti-VM Techniques for Sophistication",
+                "link": "https://cybersecuritynews.com/new-mintsloader-employs-domain-generation-algorithm-anti-vm-techniques/",
+                "description": ""
+            },
+            {
+                "title": "Researchers Detailed the Ghostwriter APT Infrastructure Used to Launch Cyber Attacks",
+                "link": "https://cybersecuritynews.com/researchers-detailed-the-ghostwriter-apt-infrastructure/",
+                "description": ""
+            },
+            {
+                "title": "Apple Confirms Tik Tok No Longer Available In Stores For US Users",
+                "link": "https://cybersecuritynews.com/apple-tiktok-ban-us/",
+                "description": ""
+            },
+            {
+                "title": "Chat GPT Crawler Vulnerability Let Attackers Trigger DDo S Attack On Any Websites",
+                "link": "https://cybersecuritynews.com/chatgpt-crawler-vulnerability/",
+                "description": ""
+            },
+            {
+                "title": "Hackers Weaponize MSI Packages & PNG Files To Deliver Multi-Stage Malware",
+                "link": "https://cybersecuritynews.com/hackers-weaponize-msi-packages-png-files/",
+                "description": ""
+            },
+            {
+                "title": "Sliver Implant Attacking German Entities With Weaponized LNK Files",
+                "link": "https://cybersecuritynews.com/sliver-implant-attacking-german-entities/",
+                "description": ""
+            },
+            {
+                "title": "Critical SAP Net Weaver Vulnerabilities Let Attacker Gain Access to the system",
+                "link": "https://cybersecuritynews.com/critical-sap-netweaver-vulnerabilities/",
+                "description": ""
+            },
+            {
+                "title": "New AI Telegram Module To Analyze Hacking Related Content In Telegram",
+                "link": "https://cybersecuritynews.com/new-ai-telegram-module/",
+                "description": ""
+            },
+            {
+                "title": "California Wildfire Exploited By Hackers To Launch Phishing Attacks",
+                "link": "https://cybersecuritynews.com/california-wildfire-exploited-by-hackers-to-launch-phishing-attacks/",
+                "description": ""
+            },
+            {
+                "title": "Yubico PAM Module Vulnerability Let Attackers Bypass Authentications In Certain Configurations",
+                "link": "https://cybersecuritynews.com/yubico-pam-module-vulnerability-let-attackers-bypass-authentications/",
+                "description": ""
+            },
+            {
+                "title": "CISA Warns of Three Vulnerabilities Actively Exploited in Attacks",
+                "link": "https://cybersecuritynews.com/mitel-micollab-oracle-vulnerabilities/",
+                "description": ""
+            },
+            {
+                "title": "Apple Released Security Updates For i OS, i Pad OS, mac OS, tv OS, and watch OS...",
+                "link": "https://cybersecuritynews.com/apple-released-security-updates-for-ios-ipados-macos-tvos-and-watchos/",
+                "description": ""
+            },
+            {
+                "title": "Session Smart Routers With Default Passwords Hacked By Mirai Malware",
+                "link": "https://cybersecuritynews.com/session-smart-routers-with-default-passwords/",
+                "description": ""
+            },
+            {
+                "title": "Tips How to Survive at Your First Job: The Adaptability of...",
+                "link": "https://cybersecuritynews.com/tips-how-to-survive-at-your-first-job-the-adaptability-of-students/",
+                "description": ""
+            },
+            {
+                "title": "\u2018Bould Spy\u2019 Android Malware Used by Iranian Government for Surveillance Operations",
+                "link": "https://cybersecuritynews.com/bouldspy-android-malware-used-for-surveillance-operations/",
+                "description": ""
+            },
+            {
+                "title": "5 Tips for Crafting Effective Cybersecurity Policies for Your Business In 2024",
+                "link": "https://cybersecuritynews.com/tips-for-businesses-creating-cyber-security-policies/",
+                "description": ""
+            },
+            {
+                "title": "10 Best Vulnerability Management Tools In 2025",
+                "link": "https://cybersecuritynews.com/vulnerability-management-tools/",
+                "description": ""
+            },
+            {
+                "title": "10 Best Linux Firewalls In 2025",
+                "link": "https://cybersecuritynews.com/best-linux-firewalls/",
+                "description": ""
+            },
+            {
+                "title": "How to Get Around the US Tik Tok Ban",
+                "link": "https://www.wired.com/story/how-to-get-around-the-us-tiktok-ban/",
+                "description": "WorkaroundsTikTok is now unavailable in the United States\u2014and getting around the ban isn\u2019t as simple as using a VPN. Here\u2019s what you need to know.Lily Hay NewmanandMatt Burgess"
+            },
+            {
+                "title": "Hackers Likely Stole FBI Call Logs From AT&T That Could Compromise Informants",
+                "link": "https://www.wired.com/story/hackers-likely-stole-fbi-call-logs-from-att-that-could-compromise-informants/",
+                "description": "A breach of AT&T that exposed \u201cnearly all\u201d of the company\u2019s customers may have included records related to confidential FBI sources, potentially explaining the bureau\u2019s new ..."
+            },
+            {
+                "title": "Biden's Cyber Ambassador Urges Trump Not to Cede Ground to Russia and China in Global Tech Fight",
+                "link": "https://www.wired.com/story/nathaniel-fick-us-cyber-ambassador-exit-interview/",
+                "description": "Nathaniel Fick, the ambassador for cyberspace and digital policy, has led US tech diplomacy amid a rising tide of pressure from authoritarian regimes. Wil..."
+            },
+            {
+                "title": "The \u2018Largest Illicit Online Marketplace\u2019 Ever Is Growing at an Alarming Rate, Report Says",
+                "link": "https://www.wired.com/story/the-largest-illicit-online-marketplace-ever-is-growing-at-an-alarming-rate/",
+                "description": "Huione Guarantee, a gray market researchers believe is central to the online scam ecosystem, now includes a messaging app, stablecoin, and crypto exchange\u2014while ..."
+            },
+            {
+                "title": "Secret Phone Surveillance Tech Was Likely Deployed at 2024 DNC",
+                "link": "https://www.wired.com/story/2024-dnc-cell-site-simulator-phone-surveillance/",
+                "description": "Data WIRED collected during the 2024 Democratic National Convention strongly suggests the use of a cell-site simulator, a controversial spy device that intercepts sensitive data from every..."
+            },
+            {
+                "title": "Candy Crush, Tinder, My Fitness Pal: See the Thousands of Apps Hijacked to Spy on Your Location",
+                "link": "https://www.wired.com/story/gravy-location-data-app-leak-rtb/",
+                "description": "A hack of location data company Gravy Analytics has revealed which apps are\u2014knowingly or not\u2014being used to collect your information behind the scenes.Joseph ..."
+            },
+            {
+                "title": "The Best VPNs to Protect Yourself Online",
+                "link": "https://www.wired.com/story/best-vpn/",
+                "description": "It won\u2019t solve all of your privacy problems, but a virtual private network can make you a less tempting target for hackers.Scott Gilbertson"
+            },
+            {
+                "title": "Hey, Maybe It's Time to Delete Some Old Chat Histories",
+                "link": "https://www.wired.com/story/old-chat-history-delete/",
+                "description": "Your messages going back years are likely still lurking online, potentially exposing sensitive information you forgot existed. But there's no time like the present to do some digital decluttering...."
+            },
+            {
+                "title": "Are You Being Tracked by an Air Tag? Here\u2019s How to Check",
+                "link": "https://www.wired.com/story/how-to-find-airtags/",
+                "description": "If you\u2019re worried that one of Apple\u2019s trackers is following you without consent, try these tips.Reece Rogers"
+            },
+            {
+                "title": "The WIRED Guide to Protecting Yourself From Government Surveillance",
+                "link": "https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/",
+                "description": "Donald Trump has vowed to deport millions and jail his enemies. To carry out that agenda, his administration will exploit America\u2019s digital surveillance machine. Here are some steps y..."
+            },
+            {
+                "title": "License Plate Readers Are Leaking Real-Time Video Feeds and Vehicle Data",
+                "link": "https://www.wired.com/story/license-plate-reader-live-video-data-exposed/",
+                "description": "Misconfigured license-plate-recognition systems reveal the livestreams of individual cameras and the wealth of data they collect about every vehicle that passes"
+            },
+            {
+                "title": "Apple May Owe You $20 in a Siri Privacy Lawsuit Settlement",
+                "link": "https://www.wired.com/story/apple-95-million-siri-privacy-lawsuit/",
+                "description": "Plus: The FBI discovers a historic trove of homemade explosives, new details emerge in China\u2019s hack of the US Treasury Department, and more.Andrew Couts,Andy Greenberg, andLily Hay Newman"
+            },
+            {
+                "title": "The School Shootings Were Fake. The Terror Was Real",
+                "link": "https://www.wired.com/story/school-swatting-torswats-brad-dennis/",
+                "description": "Last CallDhruv MehrotraandAndy Greenberg"
+            },
+            {
+                "title": "Californians Say X Blocked Them From Viewing Amber Alert About Missing 14-Year-Old",
+                "link": "https://www.wired.com/story/amber-alert-paywall-california/",
+                "description": "Crossed WiresKate Knibbs"
+            },
+            {
+                "title": "US Treasury Department Admits It Got Hacked by China",
+                "link": "https://www.wired.com/story/us-treasury-hacked-by-china/",
+                "description": "LootedLily Hay Newman"
+            },
+            {
+                "title": "The Most Dangerous People on the Internet in 2024",
+                "link": "https://www.wired.com/story/the-most-dangerous-people-on-the-internet-in-2024/",
+                "description": "Year in ReviewWIRED Staff"
+            },
+            {
+                "title": "The Paper Passport Is Dying",
+                "link": "https://www.wired.com/story/the-paper-passport-is-dying/",
+                "description": "Flying HighMatt Burgess"
+            },
+            {
+                "title": "You Need to Create a Secret Password With Your Family",
+                "link": "https://www.wired.com/story/you-need-to-create-a-secret-passphrase-with-your-family/",
+                "description": "Magic WordsMatt Burgess"
+            },
+            {
+                "title": "Mystery Drone Sightings Lead to FAA Ban Despite No Detected Threats",
+                "link": "https://www.wired.com/story/faa-mystery-drone-ban/",
+                "description": "Security RoundupMatt Burgess,Lily Hay Newman, andAndrew Couts"
+            },
+            {
+                "title": "Congress Again Fails to Limit Scope of Spy Powers in New Defense Bill",
+                "link": "https://www.wired.com/story/congress-spy-powers-fisa-ndaa-trump-702/",
+                "description": "Eye in the CloudDell Cameron"
+            },
+            {
+                "title": "Intel Officials Warned Police That US Cities Aren\u2019t Ready for Hostile Drones",
+                "link": "https://www.wired.com/story/intel-officials-police-us-cities-drones-dhs/",
+                "description": "Look UpDell Cameron"
+            },
+            {
+                "title": "Drug Dealers Have Moved on to Social Media",
+                "link": "https://www.wired.com/story/drug-dealers-have-moved-onto-social-media/",
+                "description": "Market HighMattha Busby"
+            },
+            {
+                "title": "The Top Cybersecurity Agency in the US Is Bracing for Donald Trump",
+                "link": "https://www.wired.com/story/cisa-cuts-trump-2/",
+                "description": "Cold CutsEric Geller"
+            },
+            {
+                "title": "Hackers Can Jailbreak Digital License Plates to Make Others Pay Their Tolls and Tickets",
+                "link": "https://www.wired.com/story/digital-license-plate-jailbreak-hack/",
+                "description": "Y1K3SAndy Greenberg"
+            },
+            {
+                "title": "Microsoft\u2019s AI Recall Tool Is Still Sucking Up Credit Card and Social Security Numbers",
+                "link": "https://www.wired.com/story/microsoft-recall-credit-card-social-security-numbers/",
+                "description": "Security RoundupMatt Burgess,Andy Greenberg, andAndrew Couts"
+            }
+        ],
+        "Tech Industry": [
+            {
+                "title": "Bitcoin touches new all-time of $109,000, then reverses in volatile session on Trump inauguration day",
+                "link": "https://www.cnbc.com/2025/01/20/bitcoin-jumps-to-a-new-record-as-traders-cheer-trump-inauguration-meme-coins.html",
+                "description": ""
+            },
+            {
+                "title": "Apple, Google remove Tik Tok from stores as app halts service in U.S.",
+                "link": "https://www.cnbc.com/2025/01/18/apple-google-remove-tiktok-from-stores-as-app-halts-service-in-us.html",
+                "description": ""
+            },
+            {
+                "title": "Perplexity AI makes a bid to merge with Tik Tok U.S.",
+                "link": "https://www.cnbc.com/2025/01/18/perplexity-ai-makes-a-bid-to-merge-with-tiktok-us.html",
+                "description": ""
+            },
+            {
+                "title": "Solana surges 12% on launch of Trump-themed meme coin, ether falls",
+                "link": "https://www.cnbc.com/2025/01/18/crypto-market-today.html",
+                "description": ""
+            },
+            {
+                "title": "Google Maps is turning 20 \u2014 mapping more countries and adding AI capabilities",
+                "link": "https://www.cnbc.com/2025/01/18/google-maps-turns-20-adds-ai-features-new-countries-to-beat-apple.html",
+                "description": ""
+            },
+            {
+                "title": "GLP-1 s and Brian Thompson\u2019s killing loom large at top health-care conference",
+                "link": "https://www.cnbc.com/2025/01/18/glp-1s-brian-thomson-killing-loom-large-at-jpm-health.html",
+                "description": ""
+            },
+            {
+                "title": "Tik Tok creators post farewell videos to their fans ahead of expected U.S. ban",
+                "link": "https://www.cnbc.com/2025/01/18/tiktok-creators-post-farewell-videos-to-their-fans-ahead-of-us-ban.html",
+                "description": ""
+            },
+            {
+                "title": "Biden pardons his family in final minutes in office",
+                "link": "https://www.cnbc.com/2025/01/20/biden-pardons-family-members.html",
+                "description": ""
+            },
+            {
+                "title": "Trump inauguration live updates: New president vows to retake Panama Canal, plant flag on Mars",
+                "link": "https://www.cnbc.com/2025/01/20/trump-inauguration-live-updates.html",
+                "description": ""
+            },
+            {
+                "title": "I've studied over 200 kids\u2014the ones with high emotional intelligence have parents who do 7 things early on",
+                "link": "https://www.cnbc.com/2025/01/12/ive-studied-over-200-kids-parents-who-raise-emotionally-intelligent-kids-do-these-things-early-on.html",
+                "description": ""
+            },
+            {
+                "title": "Tik Tok says it will go dark on Sunday unless Biden intervenes; White House calls it a 'stunt'",
+                "link": "https://www.cnbc.com/2025/01/17/tiktok-says-it-will-go-dark-on-sunday-unless-biden-intervenes.html",
+                "description": ""
+            },
+            {
+                "title": "Crypto firm Digital Currency Group to pay SEC $38.5 million for misleading investors",
+                "link": "https://www.cnbc.com/2025/01/17/crypto-firm-dcg-to-pay-sec-38point5-million-for-misleading-investors.html",
+                "description": ""
+            },
+            {
+                "title": "Sam Altman posts letter from senators asking about Open AI efforts to 'cozy up' to Trump",
+                "link": "https://www.cnbc.com/2025/01/17/sam-altman-posts-letter-from-senators-concerned-about-openai-donations.html",
+                "description": ""
+            },
+            {
+                "title": "This startup plans to recycle aluminum from cars and keep it all in the U.S.",
+                "link": "https://www.cnbc.com/2025/01/17/this-startup-plans-to-recycle-aluminum-from-cars-and-keep-it-all-in-the-us.html",
+                "description": ""
+            },
+            {
+                "title": "Supreme Court upholds Tik Tok ban, setting stage for Sunday shutdown",
+                "link": "https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html",
+                "description": ""
+            },
+            {
+                "title": "Bumble founder Whitney Wolfe Herd to return as CEO",
+                "link": "https://www.cnbc.com/2025/01/17/bumble-founder-whitney-wolfe-herd-to-return-as-ceo.html",
+                "description": ""
+            },
+            {
+                "title": "Why tech companies like Amazon, Google and TSMC are flocking to Phoenix",
+                "link": "https://www.cnbc.com/2025/01/17/why-tech-companies-like-amazon-google-and-tsmc-are-in-phoenix.html",
+                "description": ""
+            },
+            {
+                "title": "CEO of Chinese smartphone brand Honor resigns due to personal reasons",
+                "link": "https://www.cnbc.com/2025/01/17/honor-ceo-george-zhao-resigns-due-to-personal-reasons.html",
+                "description": ""
+            },
+            {
+                "title": "Tough new EU cyber rules require banks to ramp up security \u2014 but many aren't ready",
+                "link": "https://www.cnbc.com/2025/01/17/dora-many-banks-arent-ready-for-tough-new-eu-cybersecurity-law.html",
+                "description": ""
+            },
+            {
+                "title": "Top EU official denies taking a softer approach to Big Tech as Trump returns",
+                "link": "https://www.cnbc.com/2025/01/17/henna-virkkunen-denies-taking-a-softer-approach-to-big-tech-as-trump-returns.html",
+                "description": ""
+            },
+            {
+                "title": "Apple disables AI notifications for news in its beta i Phone software",
+                "link": "https://www.cnbc.com/2025/01/16/apple-disables-ai-notifications-for-news-in-its-beta-iphone-software.html",
+                "description": ""
+            },
+            {
+                "title": "Duolingo shares climb 7% as users swarm to app to learn Mandarin",
+                "link": "https://www.cnbc.com/2025/01/16/duolingo-shares-climb-7percent-as-users-swarm-to-app-to-learn-mandarin.html",
+                "description": ""
+            },
+            {
+                "title": "Snap shares drop as FTC refers My AI chatbot complaint to the DOJ",
+                "link": "https://www.cnbc.com/2025/01/16/snap-shares-drop-as-ftc-refers-complaint-to-the-doj.html",
+                "description": ""
+            },
+            {
+                "title": "Apple has worst day since August following reports of China, AI struggles",
+                "link": "https://www.cnbc.com/2025/01/16/apple-has-worst-day-since-august-down-11percent-from-december-peak.html",
+                "description": ""
+            },
+            {
+                "title": "Amazon lays off about 200 employees in its stores unit",
+                "link": "https://www.cnbc.com/2025/01/16/amazon-lays-off-about-200-employees-in-its-stores-unit.html",
+                "description": ""
+            },
+            {
+                "title": "Small-cap crypto rises ahead of Trump inauguration, bitcoin trades at $100,000",
+                "link": "https://www.cnbc.com/2025/01/16/small-cap-crypto-rises-ahead-of-trump-inauguration-bitcoin-trades-near-100000.html",
+                "description": ""
+            },
+            {
+                "title": "Brooklyn trio raises $10 million for startup to help open-source developers get paid",
+                "link": "https://www.cnbc.com/2025/01/16/merit-systems-raises-10-million-from-a16z-blockchain-capital.html",
+                "description": ""
+            },
+            {
+                "title": "Nintendo reveals long-awaited Switch 2 console set to launch this year",
+                "link": "https://www.cnbc.com/2025/01/16/nintendo-announces-switch-2-console-with-bigger-screen-and-controllers.html",
+                "description": ""
+            },
+            {
+                "title": "Tik Tok CEO expected to attend Trump's inauguration, NBC reports",
+                "link": "https://www.cnbc.com/2025/01/16/tiktok-ceo-expected-to-attend-trumps-inauguration-nbc-reports.html",
+                "description": ""
+            },
+            {
+                "title": "UK Robinhood rival Freetrade snapped up by trading firm at 29% valuation discount",
+                "link": "https://www.cnbc.com/2025/01/16/freetrade-acquired-up-by-ig-group-at-29percent-valuation-discount.html",
+                "description": ""
+            },
+            {
+                "title": "TSMC fourth-quarter profit beats expectations on strong AI chip demand",
+                "link": "https://www.cnbc.com/2025/01/16/tsmc-fourth-quarter-profit-beats-expectations-on-strong-ai-chip-demand.html",
+                "description": ""
+            },
+            {
+                "title": "Tesla is offering Cybertruck discounts as EV market gets crowded",
+                "link": "https://www.cnbc.com/2025/01/15/tesla-discounts-cybertruck-in-crowded-ev-market.html",
+                "description": ""
+            },
+            {
+                "title": "The MAGA Influencers Take Their Victory Lap, With Big Tech Picking Up the Tab",
+                "link": "https://www.wired.com/story/maga-influencers-inauguration-victory-lap/",
+                "description": "Inauguration WeekendAt parties throughout Washington over the long Inauguration weekend, creators and strategists who take credit for Donald Trump\u2019s victory toasted their su..."
+            },
+            {
+                "title": "Red Note Recruited US Influencers to Promote App Amid Tik Tok Ban Uncertainty",
+                "link": "https://www.wired.com/story/rednote-is-asking-american-influencers-to-promote-its-app/",
+                "description": "Fame FarmingMakena Kelly"
+            },
+            {
+                "title": "Tik Tok Is Already Back Online",
+                "link": "https://www.wired.com/story/tiktok-is-back/",
+                "description": "Miss Me?Zo\u00eb Schiffer"
+            },
+            {
+                "title": "How to Use Parental Controls in Your Google, Apple, and Microsoft Accounts",
+                "link": "https://www.wired.com/story/how-to-use-parental-controls-in-your-google-apple-and-microsoft-accounts/",
+                "description": "David Nield"
+            },
+            {
+                "title": "How to Use Apple\u2019s Genmoji to Create New Kinds of Emojis",
+                "link": "https://www.wired.com/story/how-to-create-genmoji-iphone-ios-18-ipados-18/",
+                "description": "Brenda Stolyar"
+            },
+            {
+                "title": "Why Dumping Seawater on Blazes Isn\u2019t the Answer to California\u2019s Wildfire Problem",
+                "link": "https://www.wired.com/story/firefighting-planes-are-dumping-ocean-water-on-the-los-angeles-fires-why-using-saltwater-is-typically-a-last-resort/",
+                "description": "LA WildfiresPatrick MegonigalFirefighting planes are dumping water from the ocean on the Los Angeles fires, but using saltwater is typically a last resort."
+            },
+            {
+                "title": "Influencers Are Hawking Wellness Products in Response to the LA Fires",
+                "link": "https://www.wired.com/story/influencers-are-hawking-wellness-products-in-response-to-the-la-fires/",
+                "description": "LA Wildfires"
+            },
+            {
+                "title": "Why It\u2019s So Confusing to Determine Air Quality in Los Angeles Right Now",
+                "link": "https://www.wired.com/story/confusing-air-quality-los-angeles-aqi/",
+                "description": "Messy Metrics"
+            },
+            {
+                "title": "Los Angeles Needs to Fireproof Communities, Not Just Houses",
+                "link": "https://www.wired.com/story/how-to-build-a-fire-resistant-neighborhood/",
+                "description": "LA Wildfires"
+            },
+            {
+                "title": "Far-Right Extremists Are LARPing as Emergency Workers in Los Angeles",
+                "link": "https://www.wired.com/story/far-right-extremists-are-larping-as-emergency-workers-in-los-angeles/",
+                "description": "LA Wildfires"
+            },
+            {
+                "title": "It\u2019s Not Just Tik Tok: These Other Byte Dance Apps Are Gone Too",
+                "link": "https://www.wired.com/story/bytedance-tiktok-ban-lemon8-capcut-gauthai-app-stores/",
+                "description": "Business"
+            },
+            {
+                "title": "Tik Tok Is Unavailable in the US\u2014and Gone From the App Stores",
+                "link": "https://www.wired.com/story/tiktok-ban-officially-in-effect/",
+                "description": ""
+            },
+            {
+                "title": "Mark Zuckerberg Turns His Back on the Media",
+                "link": "https://www.wired.com/story/plaintext-mark-zuckerberg-turns-his-back-on-the-media/",
+                "description": ""
+            },
+            {
+                "title": "The 45 Best Movies on Netflix Right Now",
+                "link": "https://www.wired.com/story/netflix-best-movies-this-week/",
+                "description": "Culture"
+            },
+            {
+                "title": "The 48 Best Shows on Netflix Right Now",
+                "link": "https://www.wired.com/story/netflix-best-shows-this-week/",
+                "description": ""
+            },
+            {
+                "title": "Hisense\u2019s RGB LED Could Be the Future for Cheap Screens",
+                "link": "https://www.wired.com/story/what-is-rgb-led-tv/",
+                "description": ""
+            },
+            {
+                "title": "Biden\u2019s Cyber Ambassador Urges Trump Not to Cede Ground to Russia and China in Global Tech Fight",
+                "link": "https://www.wired.com/story/nathaniel-fick-us-cyber-ambassador-exit-interview/",
+                "description": ""
+            },
+            {
+                "title": "There\u2019s a New Way to Count Prime Numbers",
+                "link": "https://www.wired.com/story/mathematicians-uncover-a-new-way-to-count-prime-numbers/",
+                "description": "Science"
+            },
+            {
+                "title": "Can You Get Rich Using a Raspberry Pi to Mine Cryptocurrency?",
+                "link": "https://www.wired.com/story/can-you-get-rich-using-a-raspberry-pi-to-mine-crypto/",
+                "description": ""
+            },
+            {
+                "title": "See 6 Planets Align on January 21",
+                "link": "https://www.wired.com/story/see-6-planets-align-on-january-21-planetary-alignment-mars-venus-uranus-neptune-saturn-jupiter/",
+                "description": ""
+            },
+            {
+                "title": "How to Get Around the US Tik Tok Ban",
+                "link": "https://www.wired.com/story/how-to-get-around-the-us-tiktok-ban/",
+                "description": "Security"
+            },
+            {
+                "title": "The \u2018Crazy Guy\u2019 Who Bet Billions on the i Phone\u20143 Years Before It Existed",
+                "link": "https://www.wired.com/story/softbank-masayoshi-son-bet-billions-iphone-steve-jobs/",
+                "description": "Money Money MoneyLionel BarberHow SoftBank CEO Masayoshi Son convinced Steve Jobs to make the deal of the century."
+            },
+            {
+                "title": "The King of Ozempic Is Scared as Hell",
+                "link": "https://www.wired.com/story/novo-nordisk-king-of-ozempic-scared-as-hell/",
+                "description": "Money Money Money"
+            },
+            {
+                "title": "The School Shootings Were Fake. The Terror Was Real",
+                "link": "https://www.wired.com/story/school-swatting-torswats-brad-dennis/",
+                "description": "Last Call"
+            },
+            {
+                "title": "Tim Cook Wants Apple to Literally Save Your Life",
+                "link": "https://www.wired.com/story/big-interview-tim-cook-wants-apple-to-literally-save-your-life/",
+                "description": "Core Values"
+            },
+            {
+                "title": "A Spymaster Sheikh Controls a $1.5 Trillion Fortune. He Wants to Use It to Dominate AI",
+                "link": "https://www.wired.com/story/uae-intelligence-chief-ai-money/",
+                "description": "Money Money Money"
+            },
+            {
+                "title": "My Father Says He\u2019s a \u2018Targeted Individual.\u2019 Maybe We All Are",
+                "link": "https://www.wired.com/story/my-father-says-hes-a-targeted-individual-maybe-we-all-are/",
+                "description": "Mind Control"
+            },
+            {
+                "title": "The First US Bird Flu Death Is a Stark Warning",
+                "link": "https://www.wired.com/story/the-first-us-bird-flu-death-is-a-stark-warning/#intcid=_wired-verso-hp-trending_a1f3158f-cedc-4759-865b-76a63b534fe2_popular4-1",
+                "description": "ScienceA Louisiana patient is the first person in the United States to die as a result of H5N1 infection. One expert likens what happens next to Russian roulette.Emily Mullin"
+            },
+            {
+                "title": "HTML Is Actually a Programming Language. Fight Me",
+                "link": "https://www.wired.com/story/html-is-actually-a-programming-language-fight-me/#intcid=_wired-verso-hp-trending_a1f3158f-cedc-4759-865b-76a63b534fe2_popular4-1",
+                "description": "BusinessIn fact, HTML is the most significant computing language ever developed. Underestimate it at your peril.Tim Carmody"
+            },
+            {
+                "title": "Tik Tok is back online but its ultimate fate in America still lies in Trump\u2019s hands",
+                "link": "https://www.cnn.com/2025/01/20/tech/tiktok-future-donald-trump-ban-sale/index.html",
+                "description": ""
+            },
+            {
+                "title": "Tik Tok is back online after Trump pledged to restore it",
+                "link": "https://www.cnn.com/2025/01/19/tech/tiktok-ban/index.html",
+                "description": ""
+            },
+            {
+                "title": "Champagne sales sink because people don\u2019t want to celebrate",
+                "link": "https://www.cnn.com/2025/01/20/food/champagne-sales-2024/index.html",
+                "description": ""
+            },
+            {
+                "title": "Tik Tok is back online but its ultimate fate in America still lies in Trump\u2019s hands",
+                "link": "https://www.cnn.com/2025/01/20/tech/tiktok-future-donald-trump-ban-sale/index.html",
+                "description": "Carlos Barria/Reuters"
+            },
+            {
+                "title": "Tik Tok is back online after Trump pledged to restore it",
+                "link": "https://www.cnn.com/2025/01/19/tech/tiktok-ban/index.html",
+                "description": "Ashley Landis/AP"
+            },
+            {
+                "title": "Instagram rolls out Tik Tok-like features amid uncertainty about rival\u2019s future",
+                "link": "https://www.cnn.com/2025/01/19/tech/instagram-tiktok-features-shutdown/index.html",
+                "description": "Silas Stein/dpa/picture-alliance/Sipa/File"
+            },
+            {
+                "title": "Tik Tok is set to be banned Sunday. Here\u2019s what it means for you",
+                "link": "https://www.cnn.com/2025/01/17/tech/tiktok-getting-banned-trump-biden/index.html",
+                "description": "Brook Joyner/CNN"
+            },
+            {
+                "title": "As US Tik Tok users move to Red Note, some are encountering Chinese-style censorship for the first time",
+                "link": "https://www.cnn.com/2025/01/16/tech/tiktok-refugees-rednote-china-censorship-intl-hnk/index.html",
+                "description": "VCG/Getty Images"
+            },
+            {
+                "title": "Nintendo\u2019s new Switch 2 console to be released in 2025",
+                "link": "https://www.cnn.com/2025/01/16/tech/nintendo-new-switch-console-intl-hnk/index.html",
+                "description": "Courtesy Nintendo"
+            },
+            {
+                "title": "Tik Tok will be banned without a savior. Here are the alternative apps users are flocking to",
+                "link": "https://www.cnn.com/2025/01/16/tech/tiktok-ban-alternative-apps/index.html",
+                "description": "Adek Berry/AFP/Getty Images"
+            },
+            {
+                "title": "Trump is considering a plan to save Tik Tok",
+                "link": "https://www.cnn.com/2025/01/15/tech/trump-tiktok-ban/index.html",
+                "description": "Brook Joyner/CNN"
+            },
+            {
+                "title": "The great social media migration: Sudden influx of US users to Red Note connects Chinese and Americans like never before",
+                "link": "https://www.cnn.com/2025/01/14/tech/rednote-china-popularity-us-tiktok-ban-intl-hnk/index.html",
+                "description": "Yuyu Chen/FeatureChina/AP"
+            },
+            {
+                "title": "Why China may be OK with Tik Tok selling to Elon Musk",
+                "link": "https://www.cnn.com/2025/01/14/tech/china-tiktok-sale-elon-musk-analysis/index.html",
+                "description": "Andrew Harnik/Getty Images"
+            },
+            {
+                "title": "Soon to be out of a job, Meta\u2019s fact-checkers battle a blaze of wildfire conspiracy theories",
+                "link": "https://www.cnn.com/2025/01/13/tech/meta-fact-checkers-wildfire-conspiracy-theories/index.html",
+                "description": "Ethan Swope/AP"
+            },
+            {
+                "title": "Biden unveils last round of AI chip curbs aimed at China, Russia",
+                "link": "https://www.cnn.com/2025/01/13/tech/china-us-biden-chips-ai-curbs-hnk-intl/index.html",
+                "description": "Justin Sullivan/Getty Images"
+            },
+            {
+                "title": "Meta ends its DEI programs as Zuckerberg blasts Biden on Joe Rogan",
+                "link": "https://www.cnn.com/2025/01/10/tech/meta-ends-dei-programs/index.html",
+                "description": "Josh Edelson/AFP/Getty Images"
+            },
+            {
+                "title": "Snapchat\u2019s new AI chatbot is already raising alarms among teens and parents",
+                "link": "https://www.cnn.com/2023/04/27/tech/snapchat-my-ai-concerns-wellness/index.html",
+                "description": "Tiffany Hagler-Geard/Bloomberg/Getty Images"
+            },
+            {
+                "title": "Video Looking for minerals in the Middle East 0:55",
+                "link": "https://www.cnn.com/2025/01/20/business/video/al-rawi-aregas-spc",
+                "description": "\u2022Video0:55CNN"
+            },
+            {
+                "title": "Champagne sales sink because people don\u2019t want to celebrate",
+                "link": "https://www.cnn.com/2025/01/20/food/champagne-sales-2024/index.html",
+                "description": ""
+            },
+            {
+                "title": "Teamsters plan strike at Costco on February 1",
+                "link": "https://www.cnn.com/2025/01/20/business/costco-strike-teamsters/index.html",
+                "description": ""
+            },
+            {
+                "title": "Nothing Bundt Cakes now requires stores to open on Sundays. Some franchisees are furious",
+                "link": "https://www.cnn.com/2025/01/20/business/nothing-bundt-cakes-sunday-mandate/index.html",
+                "description": ""
+            },
+            {
+                "title": "Have your I-9 s ready: Chicago restaurants prep for Trump immigration sweeps",
+                "link": "https://www.cnn.com/2025/01/20/business/chicago-restaurants-undocumented-immigrants-deportation/index.html",
+                "description": "Vincent Alban/Reuters/File"
+            },
+            {
+                "title": "Get ready for the world\u2019s first trillionaires",
+                "link": "https://www.cnn.com/2025/01/19/business/trillionaire-net-worth-oxfam-report/index.html",
+                "description": "Matias Baglietto/NurPhoto/Getty Images"
+            }
+        ],
+        "Future Technologies": [
+            {
+                "title": "What to expect at Samsung Unpacked 2025",
+                "link": "https://www.engadget.com/mobile/smartphones/what-to-expect-at-the-samsung-galaxy-s25-unpacked-2025-event-202024337.html",
+                "description": ""
+            },
+            {
+                "title": "What to expect at Samsung Unpacked 2025",
+                "link": "https://www.engadget.com/mobile/smartphones/what-to-expect-at-the-samsung-galaxy-s25-unpacked-2025-event-202024337.html",
+                "description": ""
+            },
+            {
+                "title": "Google decides it won't comply with EU fact-checking law",
+                "link": "https://www.engadget.com/big-tech/google-decides-it-wont-comply-with-eu-fact-checking-law-201514781.html",
+                "description": ""
+            },
+            {
+                "title": "Mark Zuckerberg plans to lay off an additional five percent of Meta's workforce",
+                "link": "https://www.engadget.com/big-tech/mark-zuckerberg-plans-to-lay-off-an-additional-five-percent-of-metas-workforce-182651886.html",
+                "description": ""
+            },
+            {
+                "title": "Celebs and tech luminaries including Mark Ruffalo want to create a fully open social media ecosystem",
+                "link": "https://www.engadget.com/social-media/celebs-and-tech-luminaries-including-mark-ruffalo-want-to-create-a-fully-open-social-media-ecosystem-174641161.html",
+                "description": ""
+            },
+            {
+                "title": "CES 2025: The best tech and gadgets we saw in Las Vegas",
+                "link": "https://www.engadget.com/ces-2025-the-best-tech-and-gadgets-we-saw-in-las-vegas-211535722.html",
+                "description": ""
+            },
+            {
+                "title": "CES 2025 was more shoppable than conceptual",
+                "link": "https://www.engadget.com/general/ces-2025-was-more-shoppable-than-conceptual-160010350.html",
+                "description": ""
+            },
+            {
+                "title": "CES 2025 updates: Live coverage of all the biggest tech, AI and gadget news from Las Vegas",
+                "link": "https://www.engadget.com/ces-2025-live-updates-the-best-tech-announcements-and-gadget-news-from-las-vegas-100003597.html",
+                "description": ""
+            },
+            {
+                "title": "CES 2025: The press conferences and new tech we're expecting to see from Samsung, NVIDIA, LG and more",
+                "link": "https://www.engadget.com/ces-2025-the-press-conferences-and-new-tech-were-expecting-to-see-from-samsung-nvidia-lg-and-more-200052126.html",
+                "description": ""
+            },
+            {
+                "title": "Parker Solar Probe survived its close approach to the sun and will make two more in 2025",
+                "link": "https://www.engadget.com/science/space/parker-solar-probe-survived-its-close-approach-to-the-sun-and-will-make-two-more-in-2025-180350510.html",
+                "description": ""
+            },
+            {
+                "title": "\u2018I use a drone to spy on people\u2019",
+                "link": "https://www.bbc.com/future/article/20150318-i-use-a-drone-to-spy-on-people",
+                "description": "ByRose Eveleth"
+            },
+            {
+                "title": "Seven ways you are truly unique",
+                "link": "https://www.bbc.com/future/article/20170109-the-seven-ways-you-are-totally-unique",
+                "description": ""
+            },
+            {
+                "title": "Why Apple and Google are going solar",
+                "link": "https://www.bbc.com/future/article/20161013-why-apple-and-google-are-going-solar",
+                "description": ""
+            },
+            {
+                "title": "VR: What is hype and what is real?",
+                "link": "https://www.bbc.com/future/article/20160729-virtual-reality-the-hype-the-problems-and-the-promise",
+                "description": ""
+            },
+            {
+                "title": "The ghost towns created by the oil rush",
+                "link": "https://www.bbc.com/future/article/20160715-the-ghost-towns-left-by-oil-booms-and-busts",
+                "description": ""
+            },
+            {
+                "title": "The oil-rich city betting on drones",
+                "link": "https://www.bbc.com/future/article/20150910-the-futuristic-city-that-wants-to-rule-from-the-sky",
+                "description": ""
+            },
+            {
+                "title": "The car that runs on sunshine",
+                "link": "https://www.bbc.com/future/article/20150812-the-car-that-runs-on-sunshine",
+                "description": ""
+            },
+            {
+                "title": "The 9 most powerful supercomputers in the world right now By Keumars Afifi-Sabet Last updated 20 January 25",
+                "link": "https://www.livescience.com/technology/computing/top-most-powerful-supercomputers",
+                "description": "ByKeumars Afifi-SabetLast updated20 January 25"
+            },
+            {
+                "title": "'ELIZA,' the world's 1 st chatbot, was just resurrected from 60-year-old computer code By Kristina Killgrove Published 18 January 25",
+                "link": "https://www.livescience.com/technology/eliza-the-worlds-1st-chatbot-was-just-resurrected-from-60-year-old-computer-code",
+                "description": "ByKristina KillgrovePublished18 January 25"
+            },
+            {
+                "title": "Schr\u00f6dinger's Cat breakthrough could usher in the 'Holy Grail' of quantum computing, making them error-proof By Ben Turner Published 16 January 25",
+                "link": "https://www.livescience.com/technology/computing/schrodingers-cat-breakthrough-could-usher-in-the-holy-grail-of-quantum-computing-making-them-error-proof",
+                "description": "ByBen TurnerPublished16 January 25"
+            },
+            {
+                "title": "Top-secret X-37 B space plane has been in orbit for more than 1 year By Leonard David Published 16 January 25",
+                "link": "https://www.livescience.com/technology/engineering/space-forces-secretive-x-37b-space-plane-soars-past-1-year-in-orbit",
+                "description": "ByLeonard DavidPublished16 January 25"
+            },
+            {
+                "title": "AI could crack unsolvable problems \u2014 and humans won't be able to understand the results By Ehsan Nabavi Published 5 January 25",
+                "link": "https://www.livescience.com/technology/artificial-intelligence/ai-could-crack-unsolvable-problems-and-humans-wont-be-able-to-understand-the-results",
+                "description": "ByEhsan NabaviPublished5 January 25"
+            },
+            {
+                "title": "Just 2 hours is all it takes for AI agents to replicate your personality with 85% accuracy By Owen Hughes Published 4 January 25",
+                "link": "https://www.livescience.com/technology/artificial-intelligence/just-2-hours-is-all-it-takes-for-ai-agents-to-replicate-your-personality-with-85-percent-accuracy",
+                "description": "ByOwen HughesPublished4 January 25"
+            },
+            {
+                "title": "Large language models can be squeezed onto your phone \u2014 rather than needing 1000 s of servers to run \u2014 after breakthrough By Keumars Afifi-Sabet Published 5 December 24",
+                "link": "https://www.livescience.com/technology/artificial-intelligence/large-language-models-can-be-squeezed-onto-your-phone-rather-than-needing-1000s-of-servers-to-run-after-breakthrough",
+                "description": "ByKeumars Afifi-SabetPublished5 December 24"
+            },
+            {
+                "title": "Meet 'Chameleon' \u2013 an AI model that can protect you from facial recognition thanks to a sophisticated digital mask By Roland Moore-Colyer Published 1 December 24",
+                "link": "https://www.livescience.com/technology/artificial-intelligence/meet-chameleon-an-ai-model-that-can-protect-you-from-facial-recognition-thanks-to-a-sophisticated-digital-mask",
+                "description": "ByRoland Moore-ColyerPublished1 December 24"
+            },
+            {
+                "title": "'This is a marriage of AI and quantum': New technology gives AI the power to feel surfaces for the 1 st time By Keumars Afifi-Sabet Published 27 November 24",
+                "link": "https://www.livescience.com/technology/artificial-intelligence/this-is-a-marriage-of-ai-and-quantum-new-technology-gives-ai-the-power-to-feel-surfaces-for-the-1st-time",
+                "description": "ByKeumars Afifi-SabetPublished27 November 24"
+            },
+            {
+                "title": "We are instinctively turned off by stories labeled 'AI-generated' \u2014 even if they were secretly written by other people, study finds By Drew Turney Published 27 November 24",
+                "link": "https://www.livescience.com/technology/artificial-intelligence/we-are-instinctively-turned-off-by-stories-labeled-ai-generated-even-if-they-were-secretly-written-by-other-people-study-finds",
+                "description": "ByDrew TurneyPublished27 November 24"
+            },
+            {
+                "title": "Tens of millions of devices are thrown away each year \u2014 and the rise of generative AI will only make this worse By Saima S. Iqbal Published 23 November 24",
+                "link": "https://www.livescience.com/technology/artificial-intelligence/tens-of-millions-of-devices-are-thrown-away-each-year-and-the-rise-of-generative-ai-will-only-make-this-worse",
+                "description": "BySaima S. IqbalPublished23 November 24"
+            },
+            {
+                "title": "'It might pave the way for novel forms of artistic expression': Generative AI isn't a threat to artists \u2014 it's an opportunity to redefine art itself By Remo Pareschi Published 23 November 24",
+                "link": "https://www.livescience.com/technology/artificial-intelligence/it-might-pave-the-way-for-novel-forms-of-artistic-expression-generative-ai-isnt-a-threat-to-artists-its-an-opportunity-to-redefine-art-itself",
+                "description": "ByRemo PareschiPublished23 November 24"
+            },
+            {
+                "title": "New navigation system uses cellphone signals to fly a plane in case GPS fails By Rory Bathgate Published 25 November 24",
+                "link": "https://www.livescience.com/technology/communications/when-gps-fails-cellphone-signals-could-come-to-the-rescue-and-safely-navigate-planes-instead",
+                "description": "ByRory BathgatePublished25 November 24"
+            },
+            {
+                "title": "'Unbreakable' quantum communication closer to reality thanks to new, exceptionally bright photons By Peter Ray Allison Published 26 August 24",
+                "link": "https://www.livescience.com/technology/communications/unbreakable-quantum-communication-closer-to-reality-thanks-to-new-exceptionally-bright-photons",
+                "description": "ByPeter Ray AllisonPublished26 August 24"
+            },
+            {
+                "title": "Quantum data beamed alongside 'classical' data in a single fiber-optic connection for the 1 st time By Owen Hughes Published 19 August 24",
+                "link": "https://www.livescience.com/technology/communications/quantum-data-beamed-alongside-classical-data-in-a-single-fiber-optic-connection-for-the-1st-time",
+                "description": "ByOwen HughesPublished19 August 24"
+            },
+            {
+                "title": "'Absurdly fast' algorithm solves 70-year-old logjam \u2014 speeding up network traffic in areas from airline scheduling to the internet By Ben Turner Published 30 July 24",
+                "link": "https://www.livescience.com/technology/communications/absurdly-fast-algorithm-solves-70-year-old-logjam-speeding-up-network-flow-in-areas-from-airline-scheduling-to-the-internet",
+                "description": "ByBen TurnerPublished30 July 24"
+            },
+            {
+                "title": "This bizarre vortex doesn't just look cool \u2014 it can be a key cog in making scalable high-speed 6 G networks a reality By Roland Moore-Colyer Published 8 July 24",
+                "link": "https://www.livescience.com/technology/communications/this-bizarre-vortex-doesnt-just-look-cool-it-can-be-a-key-cog-in-making-scalable-high-speed-6g-networks-a-reality",
+                "description": "ByRoland Moore-ColyerPublished8 July 24"
+            },
+            {
+                "title": "The 9 most powerful supercomputers in the world right now By Keumars Afifi-Sabet Last updated 20 January 25",
+                "link": "https://www.livescience.com/technology/computing/top-most-powerful-supercomputers",
+                "description": "ByKeumars Afifi-SabetLast updated20 January 25"
+            },
+            {
+                "title": "'ELIZA,' the world's 1 st chatbot, was just resurrected from 60-year-old computer code By Kristina Killgrove Published 18 January 25",
+                "link": "https://www.livescience.com/technology/eliza-the-worlds-1st-chatbot-was-just-resurrected-from-60-year-old-computer-code",
+                "description": "ByKristina KillgrovePublished18 January 25"
+            },
+            {
+                "title": "Schr\u00f6dinger's Cat breakthrough could usher in the 'Holy Grail' of quantum computing, making them error-proof By Ben Turner Published 16 January 25",
+                "link": "https://www.livescience.com/technology/computing/schrodingers-cat-breakthrough-could-usher-in-the-holy-grail-of-quantum-computing-making-them-error-proof",
+                "description": "ByBen TurnerPublished16 January 25"
+            },
+            {
+                "title": "Nvidia's mini 'desktop supercomputer' is 1,000 times more powerful than a laptop \u2014 and it can fit in your bag By Keumars Afifi-Sabet Published 7 January 25",
+                "link": "https://www.livescience.com/technology/computing/nvidias-mini-desktop-supercomputer-is-1-000-times-more-powerful-than-your-laptop-and-can-fit-in-your-pocket",
+                "description": "ByKeumars Afifi-SabetPublished7 January 25"
+            },
+            {
+                "title": "Quantum computers that are actually useful 1 step closer thanks to new silicon processor that could pack millions of qubits By Owen Hughes Published 4 January 25",
+                "link": "https://www.livescience.com/technology/computing/quantum-computers-that-are-actually-useful-1-step-closer-thanks-to-new-silicon-processor-that-could-pack-millions-of-qubits",
+                "description": "ByOwen HughesPublished4 January 25"
+            },
+            {
+                "title": "Qubits inspired by 'Schr\u00f6dinger's cat' thought experiment could usher in powerful quantum computers by 2030 By Peter Ray Allison Published 3 January 25",
+                "link": "https://www.livescience.com/technology/computing/qubits-inspired-by-schrodingers-cat-thought-experiment-could-usher-in-powerful-quantum-computers-by-2030",
+                "description": "ByPeter Ray AllisonPublished3 January 25"
+            },
+            {
+                "title": "What is quantum supremacy?By Edd Gent Published 27 December 24",
+                "link": "https://www.livescience.com/technology/computing/what-is-quantum-supremacy",
+                "description": "ByEdd GentPublished27 December 24"
+            },
+            {
+                "title": "Google's new quantum chip has solved a problem that would have taken the best supercomputer a quadrillion times the age of the universe to crack By Keumars Afifi-Sabet Published 9 December 24",
+                "link": "https://www.livescience.com/technology/computing/google-willow-quantum-computing-chip-solved-a-problem-the-best-supercomputer-taken-a-quadrillion-times-age-of-the-universe-to-crack",
+                "description": "ByKeumars Afifi-SabetPublished9 December 24"
+            },
+            {
+                "title": "Cybertruck-looking 'mobile aircraft carrier' developed in China can hide away and launch a 2-person flying car By Keumars Afifi-Sabet Published 9 January 25",
+                "link": "https://www.livescience.com/technology/electric-vehicles/cybertruck-looking-mobile-aircraft-carrier-developed-in-china-can-hide-away-and-launch-a-2-person-flying-car",
+                "description": "ByKeumars Afifi-SabetPublished9 January 25"
+            },
+            {
+                "title": "Honda promises solid-state batteries that could double EV range to 620 miles by 2030 By Roland Moore-Colyer Published 5 January 25",
+                "link": "https://www.livescience.com/technology/electric-vehicles/honda-promises-solid-state-batteries-that-could-double-ev-range-to-620-miles-by-2030",
+                "description": "ByRoland Moore-ColyerPublished5 January 25"
+            },
+            {
+                "title": "'Single crystal' electrodes could power EVs for millions of miles By Skyler Ware Published 3 January 25",
+                "link": "https://www.livescience.com/technology/electric-vehicles/single-crystal-electrodes-could-power-evs-for-millions-of-miles",
+                "description": "BySkyler WarePublished3 January 25"
+            },
+            {
+                "title": "Near-unlimited EV range now a possibility thanks to surprising new technology \u2014 solar paint By Owen Hughes Published 24 December 24",
+                "link": "https://www.livescience.com/technology/electric-vehicles/near-unlimited-ev-range-now-a-possibility-thanks-to-surprising-new-technology-solar-paint",
+                "description": "ByOwen HughesPublished24 December 24"
+            },
+            {
+                "title": "Meet 'Blackbird': A flying taxi that spins and moves in any direction thanks to new propulsion system By Rory Bathgate Published 29 November 24",
+                "link": "https://www.livescience.com/technology/electric-vehicles/meet-blackbird-a-flying-taxi-that-spins-and-moves-in-any-direction-thanks-to-new-propulsion-system",
+                "description": "ByRory BathgatePublished29 November 24"
+            },
+            {
+                "title": "World's 1 st silicon anode EV battery will let you drive up to 186 miles after just 5 minutes of charging By Ruari Mc Callion Published 22 November 24",
+                "link": "https://www.livescience.com/technology/electric-vehicles/worlds-1st-silicon-anode-ev-battery-will-let-you-drive-up-to-186-miles-after-just-5-minutes-of-charging",
+                "description": "ByRuari McCallionPublished22 November 24"
+            },
+            {
+                "title": "'Springy' solid-state battery is twice the width of a white blood cell and could drastically increase EV range By Jane Mc Callion Published 12 September 24",
+                "link": "https://www.livescience.com/technology/electric-vehicles/springy-solid-state-battery-is-twice-the-width-of-a-white-blood-cell-and-could-drastically-increase-ev-range",
+                "description": "ByJane McCallionPublished12 September 24"
+            },
+            {
+                "title": "Tiny AI chip modeled on the human brain set to boost battery life in smart devices By Keumars Afifi-Sabet Published 13 January 25",
+                "link": "https://www.livescience.com/technology/electronics/tiny-ai-chip-modeled-on-the-human-brain-set-to-slash-power-consumption-and-boost-battery-life-in-smart-tech",
+                "description": "ByKeumars Afifi-SabetPublished13 January 25"
+            },
+            {
+                "title": "Superfast diamond-laced computer chips now much closer to reality thanks to 'quantum breakthrough'By Keumars Afifi-Sabet Published 3 January 25",
+                "link": "https://www.livescience.com/technology/electronics/superfast-diamond-laced-computer-chips-now-much-closer-to-reality-thanks-to-quantum-breakthrough",
+                "description": "ByKeumars Afifi-SabetPublished3 January 25"
+            },
+            {
+                "title": "How a new generation of 'smart windows' could keep you warm in winter and cool in summer By Anurag Roy Published 3 January 25",
+                "link": "https://www.livescience.com/technology/electronics/how-a-new-generation-of-smart-windows-could-keep-you-warm-in-winter-and-cool-in-summer",
+                "description": "ByAnurag RoyPublished3 January 25"
+            },
+            {
+                "title": "Top-secret X-37 B space plane has been in orbit for more than 1 year By Leonard David Published 16 January 25",
+                "link": "https://www.livescience.com/technology/engineering/space-forces-secretive-x-37b-space-plane-soars-past-1-year-in-orbit",
+                "description": "ByLeonard DavidPublished16 January 25"
+            },
+            {
+                "title": "Passenger plane with entirely new 'blended wing' shape aims to hit the skies by 2030 By Keumars Afifi-Sabet Published 10 January 25",
+                "link": "https://www.livescience.com/technology/engineering/passenger-plane-with-entirely-new-blended-wing-shape-aims-to-hit-the-skies-by-2030",
+                "description": "ByKeumars Afifi-SabetPublished10 January 25"
+            },
+            {
+                "title": "Lasers powered by sunlight could beam energy through space to support interplanetary missions By Skyler Ware Published 23 December 24",
+                "link": "https://www.livescience.com/technology/engineering/lasers-powered-by-sunlight-could-beam-energy-through-space-to-support-interplanetary-missions",
+                "description": "BySkyler WarePublished23 December 24"
+            },
+            {
+                "title": "World's 1 st nuclear-diamond battery of its kind could power devices for 1000 s of years By Ruari Mc Callion Published 16 December 24",
+                "link": "https://www.livescience.com/technology/engineering/worlds-1st-nuclear-diamond-battery-of-its-kind-could-power-devices-for-1000s-of-years",
+                "description": "ByRuari McCallionPublished16 December 24"
+            },
+            {
+                "title": "Stealth destroyer 1 st to carry hypersonic missiles that travel 5 times the speed of sound \u2014 with testing imminent By Peter Ray Allison Published 13 December 24",
+                "link": "https://www.livescience.com/technology/engineering/stealth-destroyer-1st-to-carry-hypersonic-missiles-that-travel-5-times-the-speed-of-sound-with-testing-imminent",
+                "description": "ByPeter Ray AllisonPublished13 December 24"
+            },
+            {
+                "title": "Chinese scientists claim they have built a Death Star-inspired beam weapon By Peter Ray Allison Published 24 November 24",
+                "link": "https://www.livescience.com/technology/engineering/chinese-scientists-claim-they-have-built-a-death-star-inspired-beam-weapon",
+                "description": "ByPeter Ray AllisonPublished24 November 24"
+            },
+            {
+                "title": "Supersonic passenger planes 1 step closer to return after successful Boom XB-1 test flight nears sound barrier By Rory Bathgate Published 21 November 24",
+                "link": "https://www.livescience.com/technology/engineering/supersonic-passenger-planes-1-step-closer-to-return-after-successful-boom-xb-1-test-flight-nears-sound-barrier",
+                "description": "ByRory BathgatePublished21 November 24"
+            },
+            {
+                "title": "'It invites us to reconsider our notion of shadow': Laser beams can actually cast their own shadows, scientists discover By Skyler Ware Published 15 November 24",
+                "link": "https://www.livescience.com/technology/it-invites-us-to-reconsider-our-notion-of-shadow-laser-beams-can-actually-cast-their-own-shadows-scientists-discover",
+                "description": "BySkyler WarePublished15 November 24"
+            },
+            {
+                "title": "Follow Live Science on social media By Livescience.com Published 3 May 24",
+                "link": "https://www.livescience.com/technology/internet/follow-live-science-on-social-media",
+                "description": "ByLivescience.comPublished3 May 24"
+            },
+            {
+                "title": "Reference Internet history timeline: ARPANET to the World Wide Web By Kim Ann Zimmermann Published 8 April 22",
+                "link": "https://www.livescience.com/20727-internet-history.html",
+                "description": "ByKim Ann ZimmermannPublished8 April 22"
+            },
+            {
+                "title": "17 weird, wonderful and terrifying robots we saw at CES 2025 \u2014 from a humanlike android companion to a robotic mixologist By Keumars Afifi-Sabet Last updated 10 January 25",
+                "link": "https://www.livescience.com/technology/robotics/weird-wonderful-and-terrifying-robots-we-saw-at-ces-2025",
+                "description": "ByKeumars Afifi-SabetLast updated10 January 25"
+            },
+            {
+                "title": "'Multiverse simulation engine' predicts every possible future to train humanoid robots and self-driving cars By Keumars Afifi-Sabet Published 7 January 25",
+                "link": "https://www.livescience.com/technology/artificial-intelligence/multiverse-simulation-engine-predicts-every-possible-future-to-train-humanoid-robots-and-self-driving-cars",
+                "description": "ByKeumars Afifi-SabetPublished7 January 25"
+            },
+            {
+                "title": "8 of the weirdest robots in the world right now By Roland Moore-Colyer Published 1 January 25",
+                "link": "https://www.livescience.com/technology/robotics/the-weirdest-robots-in-the-world-right-now",
+                "description": "ByRoland Moore-ColyerPublished1 January 25"
+            },
+            {
+                "title": "What is embodied AI?By Peter Ray Allison Published 29 December 24",
+                "link": "https://www.livescience.com/technology/robotics/what-is-embodied-ai",
+                "description": "ByPeter Ray AllisonPublished29 December 24"
+            },
+            {
+                "title": "The 7 most disturbing humanoid robots that emerged in 2024 By Tim Danton Published 27 December 24",
+                "link": "https://www.livescience.com/technology/robotics/the-most-advanced-humanoid-robots-that-emerged",
+                "description": "ByTim DantonPublished27 December 24"
+            },
+            {
+                "title": "Robotics breakthroughs in 2024: Test your knowledge of the most exciting advancements in the field By Keumars Afifi-Sabet Published 26 December 24",
+                "link": "https://www.livescience.com/technology/robotics/robotics-breakthroughs-test-your-knowledge-of-the-most-exciting-advancements-in-the-field",
+                "description": "ByKeumars Afifi-SabetPublished26 December 24"
+            },
+            {
+                "title": "Future robots could one day tell how you're feeling by measuring your sweat, scientists say By Owen Hughes Published 21 December 24",
+                "link": "https://www.livescience.com/technology/robotics/future-robots-could-one-day-tell-how-youre-feeling-by-measuring-your-sweat-scientists-say",
+                "description": "ByOwen HughesPublished21 December 24"
+            },
+            {
+                "title": "Weird lickable lollipop invention lets you taste in virtual reality By Pandora Dewan Published 17 December 24",
+                "link": "https://www.livescience.com/technology/virtual-reality/weird-lickable-lollipop-invention-lets-you-taste-in-virtual-reality",
+                "description": "ByPandora DewanPublished17 December 24"
+            },
+            {
+                "title": "Future VR headsets could use a new type of lens inspired by holographic tech By Andrea Saravia P\u00e9rez Published 7 November 24",
+                "link": "https://www.livescience.com/technology/virtual-reality/holographic-inspired-lenses-could-unlock-3rd-dimension-of-imaging-in-future-vr-headsets-and-smart-glasses",
+                "description": "ByAndrea Saravia P\u00e9rezPublished7 November 24"
+            },
+            {
+                "title": "Playing with fire: How VR is being used to train the next generation of firefighters By Ian Stokes Published 19 September 24",
+                "link": "https://www.livescience.com/technology/virtual-reality/playing-with-fire-how-vr-is-being-used-to-train-the-next-generation-of-firefighters",
+                "description": "ByIan StokesPublished19 September 24"
+            },
+            {
+                "title": "New display tech paves the way for 'most realistic' holograms in regular eyeglasses By Drew Turney Published 28 May 24",
+                "link": "https://www.livescience.com/technology/virtual-reality/new-display-tech-paves-the-way-for-most-realistic-holograms-in-regular-eyeglasses",
+                "description": "ByDrew TurneyPublished28 May 24"
+            },
+            {
+                "title": "VR headsets vulnerable to 'Inception attacks' \u2014 where hackers can mess with your sense of reality and steal your data By Drew Turney Published 28 March 24",
+                "link": "https://www.livescience.com/technology/virtual-reality/vr-headsets-vulnerable-to-inception-attacks-where-hackers-can-mess-with-your-sense-of-reality-and-steal-your-data",
+                "description": "ByDrew TurneyPublished28 March 24"
+            },
+            {
+                "title": "Watch scientists control a robot with their hands while wearing the Apple Vision Pro By Keumars Afifi-Sabet Published 15 March 24",
+                "link": "https://www.livescience.com/technology/virtual-reality/watch-scientists-control-a-robot-with-their-hands-while-wearing-the-apple-vision-pro",
+                "description": "ByKeumars Afifi-SabetPublished15 March 24"
+            },
+            {
+                "title": "Tiny AI chip modeled on the human brain set to boost battery life in smart devices By Keumars Afifi-Sabet Published 13 January 25",
+                "link": "https://www.livescience.com/technology/electronics/tiny-ai-chip-modeled-on-the-human-brain-set-to-slash-power-consumption-and-boost-battery-life-in-smart-tech",
+                "description": "ByKeumars Afifi-SabetPublished13 January 25"
+            },
+            {
+                "title": "Pill Drill Scanning System Could Track Prescriptions And Remind You To Take Your Meds",
+                "link": "https://www.techtimes.com/articles/151857/20160421/pilldrill-scanning-system-could-track-prescriptions-and-remind-you-to-take-your-meds.htm",
+                "description": ""
+            },
+            {
+                "title": "Made In China: Le Eco Unwraps Le SEE Electric Car Concept",
+                "link": "https://www.techtimes.com/articles/152094/20160421/made-in-china-leeco-unwraps-lesee-electric-car-concept.htm",
+                "description": ""
+            },
+            {
+                "title": "What's Lexus Hiding With Its New IS Sedan?",
+                "link": "https://www.techtimes.com/articles/152143/20160420/whats-lexus-hiding-new-sedan.htm",
+                "description": ""
+            },
+            {
+                "title": "Ford Won't Roll Out 200-Mile EV Anytime Soon, Sticks To 100-Mile Range",
+                "link": "https://www.techtimes.com/articles/151604/20160420/ford-wont-roll-out-200-mile-ev-anytime-soon-sticks-to-100-mile-range.htm",
+                "description": ""
+            },
+            {
+                "title": "Magic Leap Demonstrates The Potential Of Augmented Reality Via Video: This Is The Future",
+                "link": "https://www.techtimes.com/articles/151807/20160420/magic-leap-demonstrates-the-potential-of-augmented-reality-via-video-this-is-the-future.htm",
+                "description": ""
+            },
+            {
+                "title": "Smart Mattress Will Notify You If You're Partner Is Cheating - Or Rocking The Bed",
+                "link": "https://www.techtimes.com/articles/151627/20160420/smart-mattress-will-notify-you-if-youre-partner-is-cheating-or-rocking-the-bed.htm",
+                "description": ""
+            },
+            {
+                "title": "Self-Driving Car Successfully Drives Itself 1200 Miles Across China In Six Days",
+                "link": "https://www.techtimes.com/articles/151563/20160420/self-driving-car-successfully-drives-itself-1200-miles-across-china-in-six-days.htm",
+                "description": ""
+            },
+            {
+                "title": "Apple Is Making Elon Musk's 'Tesla Graveyard' Jab Appear True",
+                "link": "https://www.techtimes.com/articles/151739/20160419/apple-making-elon-musks-tesla-graveyard-jab-appear-true.htm",
+                "description": ""
+            },
+            {
+                "title": "New York City's Planned Green Taxi Expansion Halted Thanks To Uber",
+                "link": "https://www.techtimes.com/articles/151709/20160419/new-york-citys-planned-green-taxi-expansion-halted-thanks-uber.htm",
+                "description": ""
+            },
+            {
+                "title": "Bluesky, X Debuts New Video Feeds to Bring Vertical Clips to Discover as Tik Tok Gets Settled",
+                "link": "https://www.techtimes.com/articles/309134/20250120/bluesky-x-debuts-new-video-feeds-bring-vertical-clips-discover-tiktok-gets-settled.htm",
+                "description": ""
+            },
+            {
+                "title": "Meta Unveils New 'Edits' App From Instagram, a Cap Cut-like App After Tik Tok's US Ban",
+                "link": "https://www.techtimes.com/articles/309131/20250120/meta-unveils-new-edits-app-instagram-capcut-like-app-after-tiktoks-us-ban.htm",
+                "description": ""
+            },
+            {
+                "title": "'Europe's First Advanced SMR': Sweden' Blykalla Now Building a Test Nuclear Reactor With Uniper SE",
+                "link": "https://www.techtimes.com/articles/309135/20250120/europes-first-advanced-smr-sweden-blykalla-now-building-test-nuclear-reactor-uniper-se.htm",
+                "description": ""
+            },
+            {
+                "title": "Tik Tok Finds Assurance in Trump, Executive Order to Prevent Ban, Continue Operations in the Future",
+                "link": "https://www.techtimes.com/articles/309136/20250120/tiktok-finds-assurance-trump-executive-order-prevent-ban-continue-operations-future.htm",
+                "description": ""
+            },
+            {
+                "title": "DJI's Flip Drone Captures 'Cinematic Magic' With 4 K Capabilities, Advanced LIDAR, and MORE",
+                "link": "https://www.techtimes.com/articles/309133/20250120/djis-flip-drone-captures-cinematic-magic-4k-capabilities-advanced-lidar-more.htm",
+                "description": ""
+            }
+        ]
+    }
+}
