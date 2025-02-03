@@ -3,51 +3,6 @@
     "articles": {
         "Artificial Intelligence and Machine Learning": [
             {
-                "title": "12 hrs ago'World-leading supercomputer using AI to develop vaccines'Waste energy from the supercomputer could one day heat nearby homes in north Bristol.12 hrs ago Bristol",
-                "link": "https://www.bbc.com/news/articles/cy5kley15pyo",
-                "description": "Waste energy from the supercomputer could one day heat nearby homes in north Bristol."
-            },
-            {
-                "title": "1 day ago AI to be used to spot potholes and aid repairs Cameras inside Surrey County Council vehicles will spot potholes and list them for repair.1 day ago Surrey",
-                "link": "https://www.bbc.com/news/articles/cy8p9jjw3w1o",
-                "description": "Cameras inside Surrey County Council vehicles will spot potholes and list them for repair."
-            },
-            {
-                "title": "3 days ago Apple suspends error-strewn AI generated news alerts The tech giant was facing pressure to pull the feature after it made repeated mistakes summarising headlines.3 days ago Business",
-                "link": "https://www.bbc.com/news/articles/cq5ggew08eyo",
-                "description": "The tech giant was facing pressure to pull the feature after it made repeated mistakes summarising headlines."
-            },
-            {
-                "title": "'I used AI and it's not as scary as I thought'Hull College says it is embracing the use of artificial intelligence to help its students.3 days ago Hull & East Yorkshire",
-                "link": "https://www.bbc.com/news/articles/cvgp6y42rl3o",
-                "description": "Hull College says it is embracing the use of artificial intelligence to help its students."
-            },
-            {
-                "title": "4 days ago How AI can spot diseases that doctors aren't looking for AI can take a second look at medical scans and flag up potential problems that doctors might not see.",
-                "link": "https://www.bbc.com/news/articles/c9q7zqy1xlpo",
-                "description": "AI can take a second look at medical scans and flag up potential problems that doctors might not see."
-            },
-            {
-                "title": "4 days ago Plans for \u00a32 bn AI centre and 750 jobs It will be the UK's largest artificial intelligence data centre if approved.4 days ago Essex",
-                "link": "https://www.bbc.com/news/articles/c2l0d0lgje7o",
-                "description": "It will be the UK's largest artificial intelligence data centre if approved."
-            },
-            {
-                "title": "5 days ago College embraces 'incoming tide' of AIPrincipal Anthony Bravo said students would be \"foolish\" not to use AI for work.",
-                "link": "https://www.bbc.com/news/articles/c8r5jgg5gxmo",
-                "description": "Principal Anthony Bravo said students would be \"foolish\" not to use AI for work."
-            },
-            {
-                "title": "5 days ago AI Brad Pitt dupes French woman out of \u20ac830,000 Anne, 53, was subject to nationwide ridicule after a TV show revealed how she paid out huge sums to romance scammers pretending to be Brad Pitt.5 days ago Europe",
-                "link": "https://www.bbc.com/news/articles/ckgnz8rw1xgo",
-                "description": "Anne, 53, was subject to nationwide ridicule after a TV show revealed how she paid out huge sums to romance scammers pretending to be Brad Pitt."
-            },
-            {
-                "title": "7 days ago GPs turn to AI to help with patient workload Should more AI be used to help GPs with consultations and administrative work?7 days ago Technology",
-                "link": "https://www.bbc.com/news/articles/cdd026lgmdmo",
-                "description": "Should more AI be used to help GPs with consultations and administrative work?"
-            },
-            {
                 "title": "BREAKING: Trump says he hopes his legacy will be as 'peacemaker and unifier' in wide ranging inaugural speech",
                 "link": "https://www.nbcnews.com/politics/donald-trump/trump-heralds-golden-age-promise-filled-inaugural-address-rcna186498",
                 "description": ""

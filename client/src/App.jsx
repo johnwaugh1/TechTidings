@@ -1,11 +1,12 @@
 import Home from "./pages/Home";
+import Header from "./components/Header"
 
-function App() {
+const App = () => {
   return (
-    <div className="bg-gray-100 min-h-screen">
-      <Home />
-    </div>
+    <main>
+      <Header />
+    </main>
   );
-}
+};
 
 export default App;

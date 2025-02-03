@@ -1,19 +1,16 @@
-const ArticleCard = ({ title, link, description }) => {
-    return (
-      <div className="bg-white shadow-lg rounded-lg p-6 mb-4 hover:shadow-xl transition">
-        <h3 className="text-xl font-semibold mb-2">{title}</h3>
-        <p className="text-gray-600 mb-4">{description || "No description available."}</p>
-        <a
-          href={link}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-blue-500 hover:underline"
-        >
-          Read more
-        </a>
-      </div>
-    );
-  };
-  
-  export default ArticleCard;
-  
+export default function ArticleCard({ title, link, description }) {
+  return (
+    <div className="p-4 border rounded-lg shadow-lg bg-white">
+      <h2 className="text-xl font-bold">{title}</h2>
+      <p className="mt-2 text-gray-600">{description}</p>
+      <a
+        href={link}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="mt-4 inline-block text-blue-600"
+      >
+        Read More →
+      </a>
+    </div>
+  );
+}
