@@ -3,7 +3,7 @@ import Hero from "../components/Hero";
 import About from "../components/About"; 
 import Footer from "../components/Footer"; 
 
-const Home = () => {
+const HomePage = () => {
     return (
         <main className="min-h-screen bg-gray-100">
             <Header />
@@ -14,4 +14,4 @@ const Home = () => {
     );
 };
 
-export default Home;
+export default HomePage;
