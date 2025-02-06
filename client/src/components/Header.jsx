@@ -1,6 +1,9 @@
 const Header = () => {
     return (
-        <header className="px-6 lg:px-8 py-6 flex justify-between items-center">
+        <section
+            id="header" 
+            className="px-6 lg:px-8 py-6 flex justify-between items-center"
+        >
             <h1 className="text-4xl font-bold text-gray-800">
                 Tech<span className="text-blue-500">Tidings</span>
             </h1>
@@ -13,7 +16,7 @@ const Header = () => {
                     <li className="hover:text-blue-500 cursor-pointer transition-colors duration-500">Embedded Systems</li>
                 </ul>
             </nav>
-        </header>
+        </section>
     );
 };
 

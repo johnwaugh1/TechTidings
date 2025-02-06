@@ -1,7 +1,10 @@
 const About = () => {
     return (
-        <section className="pt-40 px-8 text-center lg:text-left flex items-center justify-center">
-            <div className="max-w-3xl mx-auto mb-40">
+        <section
+            id="about" 
+            className="pt-36 px-8 text-center lg:text-left flex items-center justify-center"
+        >
+            <div className="max-w-3xl mx-auto mb-48">
                 <h2 className="text-4xl font-bold text-gray-900">
                     What is Tech<span className="text-blue-500">Tidings</span>?
                 </h2>
@@ -26,7 +29,7 @@ const About = () => {
                 </p>
             </div>
         </section>
-    )
-}
+    );
+};
 
-export default About
+export default About;

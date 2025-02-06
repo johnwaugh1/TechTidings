@@ -1,6 +1,12 @@
+import { IoNewspaperOutline } from "react-icons/io5";
+import { Link } from "react-scroll";
+
 const Hero = () => {
     return (
-        <section className="mt-56 mb-96 flex flex-col lg:flex-row items-center justify-center px-8 py-8">
+        <section 
+            id="hero"
+            className="mt-56 mb-96 flex flex-col lg:flex-row items-center justify-center px-8 py-8"
+        >
             <div className="max-w-xl text-center lg:text-left mr-16">
                 <h2 className="text-6xl font-bold text-gray-900">
                     Stay Ahead in Tech with Tech<span className="text-blue-500">Tidings</span>
@@ -26,7 +32,7 @@ const Hero = () => {
                 </Link>
             </div>
         </section>
-    )
-}
+    );
+};
 
-export default Hero
+export default Hero;

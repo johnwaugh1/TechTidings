@@ -1,6 +1,11 @@
+import { Link } from "react-scroll";
+
 const Footer = () => {
     return (
-        <section className="px-6 lg:px-8 py-6 flex justify-between items-center">
+        <section 
+            id="footer"
+            className="px-6 lg:px-8 py-6 flex justify-between items-center"
+        >
             <h1 className="text-4xl font-bold text-gray-800">
                 Tech<span className="text-blue-500">Tidings</span>
                 <p className="text-xs mt-2 ml-1">
