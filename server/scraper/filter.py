@@ -2,7 +2,7 @@ import json
 import re
 
 # Path to the articles.json file
-articles_file = "../../client/public/articles.json"
+articles_file = "../../client/src/data/articles.json"
 
 # Function to validate titles based on heuristics
 def is_valid_title(title):
