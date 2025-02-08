@@ -1,7 +1,7 @@
 {
     "last_updated": "2025-01-20T13:32:08.457763",
     "articles": {
-        "Artificial Intelligence and Machine Learning": [
+        "AI & ML": [
             {
                 "title": "BREAKING: Trump says he hopes his legacy will be as 'peacemaker and unifier' in wide ranging inaugural speech",
                 "link": "https://www.nbcnews.com/politics/donald-trump/trump-heralds-golden-age-promise-filled-inaugural-address-rcna186498",
@@ -673,7 +673,7 @@
                 "description": "BusinessByWill Knight"
             }
         ],
-        "Hardware/Embedded Systems": [
+        "Hardware & Embedded Systems": [
             {
                 "title": "No Commentson Next PCB offers free PCBA prototypes for RP 2350/RP 2040 designs, RP 2040 MCU as low as 30 cents (Sponsored)",
                 "link": "https://www.cnx-software.com/2025/01/20/nextpcb-free-pcba-prototypes-for-rp2040-rp2350-designs-discounted-rp2040-mcu/#respond",

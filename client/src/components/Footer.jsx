@@ -1,6 +1,9 @@
 import { Link } from "react-scroll";
+import { useLocation, Link as RouterLink } from "react-router-dom";
 
 const Footer = () => {
+    const location = useLocation();
+
     return (
         <section 
             id="footer"
@@ -18,19 +21,21 @@ const Footer = () => {
             <nav>
                 <ul className="flex gap-6 font-medium text-gray-800 text-lg">
                     <li className="hover:text-blue-500 cursor-pointer">
-                        <Link
-                            to="header"
-                            smooth={true}
-                            duration={800}
-                        >
-                            Home
-                        </Link>
+                        {location.pathname === "/" ? (
+                            <Link to="header" smooth={true} duration={800}>
+                                Home
+                            </Link>
+                        ) : (
+                            <RouterLink to="/">Home</RouterLink>
+                        )}
                     </li>
                     <li className="hover:text-blue-500 cursor-pointer">
-                        <a href="https://github.com/johnwaugh1/TechTidings" target="none">GitHub</a>
+                        <a href="https://github.com/johnwaugh1/TechTidings" target="_blank" rel="noopener noreferrer">
+                            GitHub
+                        </a>
                     </li>
                     <li className="hover:text-blue-500 cursor-pointer">
-                        <a href="">Contact</a>
+                        <a href="#">Contact</a>
                     </li>
                 </ul>
             </nav>

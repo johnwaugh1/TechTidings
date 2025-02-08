@@ -6,13 +6,14 @@ import Footer from "../components/Footer";
 
 const CategoryPage = () => {
   const { category } = useParams();
-  const decodedCategory = decodeURIComponent(category);
   const [articles, setArticles] = useState([]);
   const [visibleCount, setVisibleCount] = useState(6);
 
   useEffect(() => {
     if (articlesData.articles[category]) {
-      setArticles(articlesData.articles[category]);
+      setArticles(articlesData.articles[category]); // Directly match category name
+    } else {
+      setArticles([]);
     }
   }, [category]);
 
@@ -25,7 +26,7 @@ const CategoryPage = () => {
       <Header />
 
       <div className="max-w-6xl mx-auto py-8 px-4">
-        <h1 className="text-3xl font-bold text-gray-800">{decodedCategory}</h1>
+        <h1 className="text-3xl font-bold text-gray-800">{category}</h1>
         <div className="grid md:grid-cols-2 gap-6 mt-6">
           {articles.slice(0, visibleCount).map((article, index) => (
             <div key={index} className="bg-white p-4 shadow-md rounded-lg">
@@ -33,9 +34,9 @@ const CategoryPage = () => {
               <p className="text-gray-600 mt-2">
                 {article.description || "No description available."}
               </p>
-              <a 
-                href={article.link} 
-                target="_blank" 
+              <a
+                href={article.link}
+                target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-500 mt-2 inline-block"
               >
@@ -47,8 +48,8 @@ const CategoryPage = () => {
 
         {visibleCount < articles.length && (
           <div className="text-center mt-6">
-            <button 
-              onClick={loadMore} 
+            <button
+              onClick={loadMore}
               className="bg-blue-600 text-white px-6 py-2 rounded-md shadow-md hover:bg-blue-700 transition"
             >
               Load More
