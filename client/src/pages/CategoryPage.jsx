@@ -22,10 +22,9 @@ const CategoryPage = () => {
   };
 
   return (
-    <div className="bg-gray-100 min-h-screen">
+    <div className="flex flex-col min-h-screen">
       <Header />
-
-      <div className="max-w-6xl mx-auto py-8 px-4">
+      <div className="flex-grow max-w-6xl mx-auto py-8 px-4">
         <h1 className="text-3xl font-bold text-gray-800">{category}</h1>
         <div className="grid md:grid-cols-2 gap-6 mt-6">
           {articles.slice(0, visibleCount).map((article, index) => (
@@ -50,14 +49,13 @@ const CategoryPage = () => {
           <div className="text-center mt-6">
             <button
               onClick={loadMore}
-              className="bg-blue-600 text-white px-6 py-2 rounded-md shadow-md hover:bg-blue-700 transition"
+              className="px-4 py-2 bg-blue-500 text-white text-lg font-medium rounded-lg shadow-xl cursor-pointer hover:bg-blue-600 transition"
             >
               Load More
             </button>
           </div>
         )}
       </div>
-
       <Footer />
     </div>
   );
