@@ -22,22 +22,22 @@ const CategoryPage = () => {
   };
 
   return (
-    <div className="flex flex-col min-h-screen">
+    <div className="flex flex-col min-h-screen bg-gray-100 dark:bg-gray-900 transition-colors duration-500">
       <Header />
       <div className="flex-grow max-w-6xl mx-auto py-8 px-4">
-        <h1 className="text-3xl font-bold text-gray-800">{category}</h1>
+        <h1 className="text-3xl font-bold text-gray-800 dark:text-gray-200">{category}</h1>
         <div className="grid md:grid-cols-2 gap-6 mt-6">
           {articles.slice(0, visibleCount).map((article, index) => (
-            <div key={index} className="bg-white p-4 shadow-md rounded-lg">
-              <h2 className="text-xl font-semibold text-gray-900">{article.title}</h2>
-              <p className="text-gray-600 mt-2">
+            <div key={index} className="bg-white dark:bg-gray-800 p-4 shadow-md rounded-lg">
+              <h2 className="text-xl font-semibold text-gray-900 dark:text-gray-100">{article.title}</h2>
+              <p className="text-gray-600 dark:text-gray-300 mt-2">
                 {article.description || "No description available."}
               </p>
               <a
                 href={article.link}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-blue-500 mt-2 inline-block"
+                className="text-blue-500 hover:text-blue-700 mt-2 inline-block"
               >
                 Read More
               </a>

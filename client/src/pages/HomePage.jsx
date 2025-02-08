@@ -5,7 +5,7 @@ import Footer from "../components/Footer";
 
 const HomePage = () => {
     return (
-        <main className="min-h-screen bg-gray-100">
+        <main className="min-h-screen bg-gray-100 dark:bg-gray-900 transition-colors duration-500">
             <Header />
             <Hero />
             <About />

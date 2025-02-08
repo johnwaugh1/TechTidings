@@ -5,13 +5,13 @@ const Hero = () => {
     return (
         <section 
             id="hero"
-            className="mt-56 mb-96 flex flex-col lg:flex-row items-center justify-center px-8 py-8"
+            className="mt-56 mb-96 flex flex-col lg:flex-row items-center justify-center px-8 py-8 bg-gray-100 dark:bg-gray-900 transition-colors duration-500"
         >
             <div className="max-w-xl text-center lg:text-left mr-16">
-                <h2 className="text-6xl font-bold text-gray-900">
+                <h2 className="text-6xl font-bold text-gray-900 dark:text-white">
                     Stay Ahead in Tech with Tech<span className="text-blue-500">Tidings</span>
                 </h2>
-                <p className="mt-4 text-lg text-gray-700">
+                <p className="mt-4 text-lg text-gray-700 dark:text-gray-300">
                     Your go-to source for the latest updates in AI, cybersecurity,
                     the tech industry, and emerging innovations. Stay informed, stay ahead.
                 </p>
