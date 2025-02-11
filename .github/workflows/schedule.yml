@@ -26,6 +26,7 @@ jobs:
         run: |
           python server/scraper/scraper.py    # Run your scraper.py
           python server/scraper/filter.py     # Run your filter.py
+        working-directory: server/scraper
 
       - name: Trigger Netlify Function (optional)
         run: |

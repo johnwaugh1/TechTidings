@@ -1,12 +1,17 @@
+import os
 import json
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 from urllib.parse import urljoin  # For handling relative URLs
 
+script_dir = os.path.dirname(os.path.abspath(__file__))
+topics_file = os.path.join(script_dir, "topics.json")
+
 # Load topics and URLs from topics.json
-with open("topics.json", "r") as file:
+with open(topics_file, "r") as file:
     topics = json.load(file)
+    pass
 
 # Output file
 output_file = "../../client/src/data/articles.json"
