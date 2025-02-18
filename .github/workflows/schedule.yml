@@ -1,35 +1,29 @@
-name: Run Scraper Every 3 Hours
+name: Run Scraper
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 */3 * * *"  # This sets the cron schedule to every 3 hours
-  workflow_dispatch: # This allows you to trigger the action manually from GitHub UI if needed
+    - cron: '0 */3 * * *'  # Runs every 3 hours
 
 jobs:
-  run-scraper:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
+      - name: Checkout code
         uses: actions/checkout@v2
 
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'
+          python-version: '3.x'  # Specify your Python version
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install -r server/scraper/requirements.txt  # Install the necessary Python packages
+          pip install -r requirements.txt
+        working-directory: ./server  # Set working directory to 'server'
 
-      - name: Run Scraper and Filter
+      - name: Run scraper.py
         run: |
-          python scraper/scraper.py    # Run your scraper.py
-          python scraper/filter.py     # Run your filter.py
-        working-directory: server/scraper
-
-      - name: Trigger Netlify Function (optional)
-        run: |
-          curl -X POST https://api.netlify.com/sites/YOUR_NETLIFY_SITE_NAME/functions/runScraper
-        env:
-          NETLIFY_API_TOKEN: ${{ secrets.NETLIFY_API_TOKEN }}
+          python scraper/scraper.py
+        working-directory: ./server  # Ensure the script runs from 'server'
