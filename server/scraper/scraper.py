@@ -14,7 +14,8 @@ with open(topics_file, "r") as file:
     pass
 
 # Output file
-output_file = "../../client/src/data/articles.json"
+output_file = os.path.join(script_dir, "../../client/src/data/articles.json")
+output_file = os.path.abspath(output_file)  # Get the absolute path
 
 # Function to extract articles from any page
 def scrape_articles(topic, url):
