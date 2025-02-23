@@ -10,13 +10,17 @@ We, as members, contributors, and leaders, pledge to make participation in **Tec
 -----------------
 
 Examples of behavior that contribute to a positive environment include:
-  ✅ **Being respectful** and welcoming to all contributors
-  ✅ Using **inclusive** and thoughtful language
-  ✅ Respecting different viewpoints and experiences
-  ✅ Gracefully accepting constructive criticism
-  ✅ Focusing on what is best for the community and project
+*   **Being respectful** and welcoming to all contributors
+*   Using **inclusive** and thoughtful language
+*   Respecting different viewpoints and experiences
+*   Gracefully accepting constructive criticism
+*   Focusing on what is best for the community and project
 
-Examples of unacceptable behavior include:🚫 Harassment, insults, or derogatory comments🚫 Trolling, personal or political attacks🚫 Publishing others' private information without consent🚫 Any conduct that is discriminatory or exclusionary
+Examples of unacceptable behavior include:
+*   Harassment, insults, or derogatory comments
+*   Trolling, personal or political attacks
+*   Publishing others' private information without consent
+*   Any conduct that is discriminatory or exclusionary
 
 **Enforcement Responsibilities**
 --------------------------------
