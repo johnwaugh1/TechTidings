@@ -66,7 +66,7 @@ TechTidings is planned for deployment on **Netlify** (frontend) and **GitHub Act
 **🌎 Contributing**
 -------------------
 
-TechTidings is an open-source project, and contributions are welcome! To contribute, see [CONTRIBUTING.md] (https://github.com/johnwaugh1/TechTidings/blob/main/CONTRIBUTING.md) for more details.
+TechTidings is an open-source project, and contributions are welcome! To contribute, see [CONTRIBUTING.md](https://github.com/johnwaugh1/TechTidings/blob/main/CONTRIBUTING.md) for more details.
 
 **📜 License**
 --------------
