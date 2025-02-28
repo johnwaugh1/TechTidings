@@ -66,20 +66,7 @@ TechTidings is planned for deployment on **Netlify** (frontend) and **GitHub Act
 **🌎 Contributing**
 -------------------
 
-TechTidings is an open-source project, and contributions are welcome! To contribute:
-
-    1.  Fork the repository 🍴
-    
-    2.  Create a new branch (git checkout -b feature-branch)
-    
-    3.  Make your changes and commit (git commit -m "Added a cool feature")
-    
-    4.  Push the branch (git push origin feature-branch)
-    
-    5.  Open a Pull Request 🔥
-    
-
-See CONTRIBUTING.md for more details.
+TechTidings is an open-source project, and contributions are welcome! To contribute, see [CONTRIBUTING.md] (https://github.com/johnwaugh1/TechTidings/blob/main/CONTRIBUTING.md) for more details.
 
 **📜 License**
 --------------
